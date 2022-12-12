@@ -1,0 +1,106 @@
+{
+    "time": "05.03.2022 11:00",
+    "home": "Burnley",
+    "away": "Chelsea",
+    "placar": "0-4",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "7.00",
+    "oddsDraw": "3.80",
+    "oddsAway": "1.50",
+    "homeGols": [],
+    "awayGols": [
+        "47'",
+        "52'",
+        "55'",
+        "69'"
+    ],
+    "allgols": [
+        "47'",
+        "52'",
+        "55'",
+        "69'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "21%",
+            "away": "79%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "4",
+            "away": "6"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "5"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "3",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "5",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "5",
+            "away": "11"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "4"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "103",
+            "away": "424"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "58",
+            "away": "387"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "7",
+            "away": "7"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "38",
+            "away": "68"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "28",
+            "away": "38"
+        }
+    ]
+}

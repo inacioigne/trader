@@ -1,0 +1,308 @@
+events,placarFull,placarHafTime,golsHalfTime,timesgol
+Kiel v Köln,1-5,1 - 4,[84],84
+Köln v Kiel,0-1,0 - 0,[59],59
+Bayern v Augsburg,5-2,4 - 0,"[67, 72, 90]",67
+Bremen v Monchengladbach,2-4,0 - 1,"[52, 58, 67, 80, 83]",52
+Dortmund v Leverkusen,3-1,1 - 0,"[51, 84, 89]",51
+Frankfurt v Freiburg,3-1,0 - 0,"[62, 77, 87, 92]",62
+Hoffenheim v Hertha,2-1,0 - 1,"[49, 91]",49
+Köln v Schalke,1-0,0 - 0,[86],86
+Stuttgart v Bielefeld,0-2,0 - 0,"[66, 72]",66
+Union Berlin v RB Leipzig,2-1,0 - 0,"[55, 67, 92]",55
+Wolfsburg v Mainz,2-3,0 - 1,"[47, 54, 66, 77]",47
+RB Leipzig v Wolfsburg,2-2,0 - 2,"[51, 78]",51
+Mainz v Dortmund,1-3,0 - 2,"[80, 91]",80
+Augsburg v Bremen,2-0,0 - 0,"[57, 90]",57
+Bielefeld v Hoffenheim,1-1,1 - 1,[],100
+Freiburg v Bayern,2-2,1 - 1,"[53, 81]",53
+Hertha v Köln,0-0,0 - 0,[],100
+Leverkusen v Union Berlin,1-1,1 - 0,[72],72
+Monchengladbach v Stuttgart,1-2,1 - 0,"[72, 77]",72
+Schalke v Frankfurt,4-3,1 - 1,"[51, 52, 60, 64, 72]",51
+Schalke v Hertha,1-2,1 - 1,[74],74
+Hertha v Bielefeld,0-0,0 - 0,[],100
+Frankfurt v Mainz,1-1,0 - 1,[86],86
+Köln v Freiburg,1-4,0 - 2,"[49, 93, 96]",49
+Bayern v Monchengladbach,6-0,4 - 0,"[66, 85]",66
+Bremen v Leverkusen,0-0,0 - 0,[],100
+Dortmund v RB Leipzig,3-2,1 - 0,"[51, 63, 77, 87]",51
+Hoffenheim v Schalke,4-2,0 - 2,"[47, 52, 60, 64]",47
+Wolfsburg v Union Berlin,3-0,1 - 0,"[63, 90]",63
+Stuttgart v Augsburg,2-1,1 - 0,"[59, 74]",59
+Hertha v Freiburg,3-0,2 - 0,[85],85
+Mainz v Hertha,1-1,1 - 1,[],100
+Monchengladbach v Bielefeld,5-0,3 - 0,"[69, 84]",69
+RB Leipzig v Stuttgart,2-0,0 - 0,"[46, 67]",46
+Leverkusen v Frankfurt,3-1,0 - 0,"[70, 80, 90, 91]",70
+Freiburg v Hoffenheim,1-1,0 - 1,[81],81
+Mainz v Bayern,2-1,2 - 0,[94],94
+Union Berlin v Bremen,3-1,0 - 0,"[50, 53, 67, 82]",50
+Wolfsburg v Dortmund,0-2,0 - 1,[68],68
+Augsburg v Köln,2-3,0 - 3,"[54, 62]",54
+Bremen v Mainz,0-1,0 - 1,[],100
+Dortmund v Union Berlin,2-0,1 - 0,[88],88
+Hoffenheim v Monchengladbach,3-2,0 - 2,"[48, 60, 65]",48
+Stuttgart v Wolfsburg,1-3,0 - 2,"[65, 92]",65
+Bayern v Leverkusen,2-0,2 - 0,[],100
+Bielefeld v Schalke,1-0,0 - 0,[50],50
+Frankfurt v Augsburg,2-0,1 - 0,[58],58
+Köln v RB Leipzig,2-1,0 - 0,"[46, 59, 60]",46
+Dortmund v Bremen,4-1,3 - 1,[87],87
+Leverkusen v Köln,3-0,1 - 0,"[51, 76]",51
+Augsburg v Bielefeld,0-0,0 - 0,[],100
+Freiburg v Schalke,4-0,2 - 0,"[50, 74]",50
+Monchengladbach v Frankfurt,4-0,1 - 0,"[60, 67, 95]",60
+Union Berlin v Stuttgart,2-1,2 - 0,[49],49
+Wolfsburg v Bayern,2-3,1 - 3,[54],54
+RB Leipzig v Hoffenheim,0-0,0 - 0,[],100
+Hoffenheim v Leverkusen,0-0,0 - 0,[],100
+Köln v Mainz,2-3,1 - 1,"[61, 65, 91]",61
+Schalke v Augsburg,1-0,1 - 0,[],100
+Stuttgart v Dortmund,2-3,1 - 0,"[47, 52, 78, 80]",47
+Bayern v Union Berlin,1-1,0 - 0,"[68, 86]",68
+Bremen v RB Leipzig,1-4,0 - 3,"[61, 63]",61
+Frankfurt v Wolfsburg,4-3,2 - 1,"[46, 54, 61, 85]",46
+Hertha v Monchengladbach,2-2,1 - 2,[49],49
+Bielefeld v Freiburg,1-0,0 - 0,[68],68
+Union Berlin v Hertha,1-1,1 - 1,[],100
+Stuttgart v Bremen,1-0,0 - 0,[81],81
+Monchengladbach v Freiburg,2-1,0 - 1,"[53, 60]",53
+RB Leipzig v Bayern,0-1,0 - 1,[],100
+Augsburg v Hoffenheim,2-1,2 - 0,[86],86
+Dortmund v Frankfurt,1-2,1 - 1,[87],87
+Leverkusen v Schalke,2-1,1 - 0,"[72, 81]",72
+Mainz v Bielefeld,1-1,0 - 0,"[56, 76]",56
+Wolfsburg v Köln,1-0,0 - 0,[69],69
+Freiburg v Augsburg,2-0,0 - 0,"[51, 79]",51
+Hertha v Leverkusen,3-0,3 - 0,[],100
+Hoffenheim v Mainz,1-2,1 - 2,[],100
+Schalke v Monchengladbach,0-3,0 - 1,"[63, 72]",63
+Bayern v Stuttgart,4-0,4 - 0,[],100
+Bremen v Wolfsburg,1-2,1 - 2,[],100
+Frankfurt v Union Berlin,5-2,4 - 2,[92],92
+Köln v Dortmund,2-2,1 - 1,"[65, 90]",65
+Bielefeld v RB Leipzig,0-1,0 - 0,[46],46
+Stuttgart v Hoffenheim,2-0,1 - 0,[64],64
+RB Leipzig v Frankfurt,1-1,0 - 0,"[46, 61]",46
+Leverkusen v Bielefeld,1-2,0 - 1,"[57, 85]",57
+Dortmund v Hertha,2-0,0 - 0,"[54, 91]",54
+Bremen v Bayern,1-3,0 - 2,"[67, 86]",67
+Mainz v Freiburg,1-0,0 - 0,[84],84
+Union Berlin v Köln,2-1,0 - 1,"[48, 67]",48
+Wolfsburg v Schalke,5-0,1 - 0,"[51, 58, 64, 79]",51
+Augsburg v Monchengladbach,3-1,0 - 0,"[52, 68, 76, 89]",52
+Bielefeld v Bremen,0-2,0 - 0,"[47, 75]",47
+Bielefeld v Union Berlin,0-0,0 - 0,[],100
+Köln v Bremen,1-1,0 - 0,"[66, 83]",66
+Bayern v Dortmund,4-2,2 - 2,"[88, 90]",88
+Frankfurt v Stuttgart,1-1,0 - 0,"[68, 69]",68
+Freiburg v RB Leipzig,0-3,0 - 1,"[64, 79]",64
+Hertha v Augsburg,2-1,0 - 1,"[62, 89]",62
+Hoffenheim v Wolfsburg,2-1,2 - 1,[],100
+Monchengladbach v Leverkusen,0-1,0 - 0,[76],76
+Schalke v Mainz,0-0,0 - 0,[],100
+Leverkusen v Freiburg,1-2,0 - 0,"[50, 61, 70]",50
+Mainz v Augsburg,0-1,0 - 1,[],100
+Union Berlin v Hoffenheim,1-1,1 - 1,[],100
+RB Leipzig v Monchengladbach,3-2,0 - 2,"[57, 66, 93]",57
+Bayern v Köln,5-1,2 - 0,"[49, 65, 82, 86]",49
+Dortmund v Bielefeld,3-0,0 - 0,"[48, 58, 81]",48
+Stuttgart v Schalke,5-1,3 - 1,"[88, 92]",88
+Wolfsburg v Hertha,2-0,1 - 0,[89],89
+Bremen v Frankfurt,2-1,0 - 1,"[47, 62]",47
+Hoffenheim v Bremen,4-0,2 - 0,"[49, 90]",49
+Hertha v RB Leipzig,0-3,0 - 1,"[71, 84]",71
+Augsburg v Leverkusen,1-1,1 - 0,[94],94
+Schalke v Dortmund,0-4,0 - 2,"[60, 79]",60
+Frankfurt v Bayern,2-1,2 - 0,[53],53
+Freiburg v Union Berlin,0-1,0 - 0,[64],64
+Köln v Stuttgart,0-1,0 - 0,[49],49
+Monchengladbach v Mainz,1-2,1 - 1,[86],86
+Bielefeld v Wolfsburg,0-3,0 - 1,"[47, 54]",47
+Bayern v Bielefeld,3-3,0 - 2,"[48, 49, 57, 69]",48
+Wolfsburg v Monchengladbach,0-0,0 - 0,[],100
+Frankfurt v Köln,2-0,0 - 0,"[57, 79]",57
+Union Berlin v Schalke,0-0,0 - 0,[],100
+Bremen v Freiburg,0-0,0 - 0,[],100
+Dortmund v Hoffenheim,2-2,1 - 1,"[51, 81]",51
+Leverkusen v Mainz,2-2,1 - 0,"[84, 89, 92]",84
+Stuttgart v Hertha,1-1,1 - 0,[82],82
+RB Leipzig v Augsburg,2-1,2 - 0,[77],77
+Hoffenheim v Frankfurt,1-3,0 - 1,"[47, 62, 64]",47
+Monchengladbach v Köln,1-2,1 - 1,[55],55
+Augsburg v Wolfsburg,0-2,0 - 1,[59],59
+Freiburg v Dortmund,2-1,0 - 0,"[49, 52, 76]",49
+Leverkusen v Stuttgart,5-2,2 - 0,"[50, 56, 68, 77, 84]",50
+Mainz v Union Berlin,1-0,1 - 0,[],100
+Schalke v RB Leipzig,0-3,0 - 1,"[73, 87]",73
+Hertha v Bayern,0-1,0 - 1,[],100
+Wolfsburg v Freiburg,3-0,2 - 0,[85],85
+Köln v Bielefeld,3-1,2 - 0,"[63, 72]",63
+RB Leipzig v Leverkusen,1-0,0 - 0,[51],51
+Bayern v Hoffenheim,4-1,2 - 1,"[57, 63]",57
+Bremen v Schalke,1-1,0 - 1,[77],77
+Dortmund v Augsburg,3-1,1 - 1,"[63, 75]",63
+Frankfurt v Hertha,3-1,0 - 0,"[66, 67, 85, 95]",66
+Union Berlin v Monchengladbach,1-1,1 - 0,[59],59
+Stuttgart v Mainz,2-0,0 - 0,"[55, 72]",55
+Hoffenheim v Köln,3-0,2 - 0,[75],75
+Schalke v Bayern,0-4,0 - 1,"[54, 88, 90]",54
+Hertha v Bremen,1-4,1 - 2,"[57, 77]",57
+Augsburg v Union Berlin,2-1,1 - 1,[47],47
+Bielefeld v Frankfurt,1-5,1 - 3,"[51, 75]",51
+Freiburg v Stuttgart,2-1,2 - 1,[],100
+Leverkusen v Wolfsburg,0-1,0 - 1,[],100
+Mainz v RB Leipzig,3-2,2 - 2,[50],50
+Monchengladbach v Dortmund,4-2,2 - 2,"[49, 78]",49
+Augsburg v Bayern,0-1,0 - 1,[],100
+Bielefeld v Stuttgart,3-0,1 - 0,"[47, 86]",47
+Freiburg v Frankfurt,2-2,1 - 1,"[63, 75]",63
+RB Leipzig v Union Berlin,1-0,0 - 0,[70],70
+Schalke v Köln,1-2,0 - 1,"[57, 93]",57
+Hertha v Hoffenheim,0-3,0 - 1,"[68, 88]",68
+Leverkusen v Dortmund,2-1,1 - 0,"[67, 80]",67
+Mainz v Wolfsburg,0-2,0 - 0,"[65, 79]",65
+Monchengladbach v Bremen,1-0,0 - 0,[66],66
+Frankfurt v Schalke,3-1,1 - 1,"[72, 91]",72
+Bayern v Freiburg,2-1,1 - 0,"[62, 74]",62
+Stuttgart v Monchengladbach,2-2,0 - 1,"[58, 61, 96]",58
+Bremen v Augsburg,2-0,0 - 0,"[84, 87]",84
+Dortmund v Mainz,1-1,0 - 0,"[57, 73]",57
+Hoffenheim v Bielefeld,0-0,0 - 0,[],100
+Köln v Hertha,0-0,0 - 0,[],100
+Wolfsburg v RB Leipzig,2-2,2 - 1,[54],54
+Union Berlin v Leverkusen,1-0,0 - 0,[88],88
+Bielefeld v Hertha,1-0,0 - 0,[64],64
+Augsburg v Stuttgart,1-4,0 - 2,"[46, 61, 87]",46
+RB Leipzig v Dortmund,1-3,0 - 0,"[55, 71, 84, 89]",55
+Freiburg v Köln,5-0,2 - 0,"[59, 69, 79]",59
+Leverkusen v Bremen,1-1,0 - 0,"[52, 70]",52
+Mainz v Frankfurt,0-2,0 - 1,[72],72
+Schalke v Hoffenheim,4-0,1 - 0,"[57, 63, 79]",57
+Union Berlin v Wolfsburg,2-2,1 - 1,"[52, 66]",52
+Monchengladbach v Bayern,3-2,2 - 2,[49],49
+Bayern v Mainz,5-2,0 - 2,"[50, 55, 70, 76, 83]",50
+Dortmund v Wolfsburg,2-0,0 - 0,"[66, 91]",66
+Stuttgart v RB Leipzig,0-1,0 - 0,[67],67
+Hertha v Schalke,3-0,1 - 0,"[52, 80]",52
+Bielefeld v Monchengladbach,0-1,0 - 0,[58],58
+Bremen v Union Berlin,0-2,0 - 2,[],100
+Frankfurt v Leverkusen,2-1,1 - 1,[54],54
+Hoffenheim v Freiburg,1-3,0 - 3,[58],58
+Köln v Augsburg,0-1,0 - 0,[77],77
+Wolfsburg v Stuttgart,1-0,0 - 0,[49],49
+Freiburg v Hertha,4-1,1 - 0,"[52, 59, 67, 94]",52
+Leverkusen v Bayern,1-2,1 - 1,[93],93
+Augsburg v Frankfurt,0-2,0 - 0,"[53, 87]",53
+Mainz v Bremen,0-1,0 - 0,[90],90
+Monchengladbach v Hoffenheim,1-2,1 - 0,"[75, 86]",75
+RB Leipzig v Köln,0-0,0 - 0,[],100
+Schalke v Bielefeld,0-1,0 - 0,[53],53
+Union Berlin v Dortmund,2-1,0 - 0,"[57, 60, 78]",57
+Bayern v Wolfsburg,2-1,1 - 1,[50],50
+Bielefeld v Augsburg,0-1,0 - 0,[85],85
+Hoffenheim v RB Leipzig,0-1,0 - 0,[60],60
+Köln v Leverkusen,0-4,0 - 2,"[54, 59]",54
+Schalke v Freiburg,0-2,0 - 0,"[50, 68]",50
+Bremen v Dortmund,1-2,1 - 1,[78],78
+Hertha v Mainz,0-0,0 - 0,[],100
+Stuttgart v Union Berlin,2-2,0 - 1,"[77, 85, 90]",77
+Frankfurt v Monchengladbach,3-3,3 - 1,"[90, 95]",90
+Leverkusen v Hoffenheim,4-1,2 - 0,"[50, 55, 91]",50
+Augsburg v Schalke,2-2,1 - 0,"[52, 61, 93]",52
+Union Berlin v Bayern,1-1,1 - 0,[67],67
+Dortmund v Stuttgart,1-5,1 - 1,"[52, 60, 63, 91]",52
+Freiburg v Bielefeld,2-0,0 - 0,"[79, 92]",79
+Mainz v Köln,0-1,0 - 0,[55],55
+Monchengladbach v Hertha,1-1,0 - 0,"[47, 70]",47
+RB Leipzig v Bremen,2-0,2 - 0,[],100
+Wolfsburg v Frankfurt,2-1,0 - 0,"[63, 76, 88]",63
+Hoffenheim v Augsburg,3-1,1 - 1,"[46, 50]",46
+Schalke v Leverkusen,0-3,0 - 1,"[67, 78]",67
+Bremen v Stuttgart,1-2,0 - 1,"[91, 93]",91
+Bayern v RB Leipzig,3-3,2 - 2,"[48, 75]",48
+Bielefeld v Mainz,2-1,2 - 0,[82],82
+Frankfurt v Dortmund,1-1,1 - 0,[56],56
+Freiburg v Monchengladbach,2-2,1 - 1,"[49, 50]",49
+Köln v Wolfsburg,2-2,2 - 1,[47],47
+Hertha v Union Berlin,3-1,0 - 1,"[51, 74, 77]",51
+Mainz v Hoffenheim,1-1,1 - 0,[62],62
+Leverkusen v Hertha,0-0,0 - 0,[],100
+Monchengladbach v Schalke,4-1,2 - 1,"[52, 80]",52
+Augsburg v Freiburg,1-1,0 - 0,"[64, 80]",64
+Dortmund v Köln,1-2,0 - 1,"[60, 74]",60
+RB Leipzig v Bielefeld,2-1,1 - 0,"[47, 75]",47
+Stuttgart v Bayern,1-3,1 - 2,[87],87
+Union Berlin v Frankfurt,3-3,2 - 2,"[79, 82]",79
+Wolfsburg v Bremen,5-3,3 - 2,"[47, 76, 95]",47
+Köln v Union Berlin,1-2,1 - 1,[72],72
+Freiburg v Mainz,1-3,0 - 3,[63],63
+Hertha v Dortmund,2-5,1 - 0,"[47, 49, 62, 70, 79, 79]",47
+Frankfurt v RB Leipzig,1-1,1 - 0,[57],57
+Bayern v Bremen,1-1,0 - 1,[62],62
+Bielefeld v Leverkusen,1-2,0 - 1,"[47, 88]",47
+Hoffenheim v Stuttgart,3-3,1 - 2,"[48, 71, 93]",48
+Monchengladbach v Augsburg,1-1,1 - 0,[88],88
+Schalke v Wolfsburg,0-2,0 - 2,[],100
+Leverkusen v Monchengladbach,4-3,2 - 2,"[68, 82, 94]",68
+Wolfsburg v Hoffenheim,2-1,2 - 0,[87],87
+Dortmund v Bayern,2-3,1 - 1,"[48, 80, 83]",48
+Augsburg v Hertha,0-3,0 - 1,"[52, 86]",52
+Mainz v Schalke,2-2,2 - 1,[82],82
+RB Leipzig v Freiburg,3-0,1 - 0,"[70, 89]",70
+Stuttgart v Frankfurt,2-2,2 - 0,"[61, 75]",61
+Union Berlin v Bielefeld,5-0,3 - 0,"[52, 89]",52
+Bremen v Köln,1-1,0 - 0,"[67, 82]",67
+Hoffenheim v Union Berlin,1-3,0 - 0,"[60, 80, 85, 94]",60
+Hertha v Wolfsburg,1-1,1 - 1,[],100
+Freiburg v Leverkusen,2-4,1 - 2,"[64, 72, 76]",64
+Monchengladbach v RB Leipzig,1-0,0 - 0,[60],60
+Augsburg v Mainz,3-1,1 - 0,"[64, 80, 91]",64
+Bielefeld v Dortmund,0-2,0 - 0,"[53, 71]",53
+Frankfurt v Bremen,1-1,0 - 0,"[51, 65]",51
+Köln v Bayern,1-2,0 - 2,[82],82
+Schalke v Stuttgart,1-1,1 - 0,[56],56
+Leverkusen v Augsburg,3-1,1 - 0,"[51, 74, 94]",51
+Bremen v Hoffenheim,1-1,1 - 1,[],100
+Wolfsburg v Bielefeld,2-1,2 - 0,[80],80
+Dortmund v Schalke,3-0,0 - 0,"[55, 61, 78]",55
+Bayern v Frankfurt,5-0,2 - 0,"[60, 72, 90]",60
+Mainz v Monchengladbach,2-3,2 - 1,"[76, 83]",76
+RB Leipzig v Hertha,2-1,1 - 1,[77],77
+Union Berlin v Freiburg,1-1,1 - 1,[],100
+Stuttgart v Köln,1-1,1 - 1,[],100
+Schalke v Union Berlin,1-1,0 - 0,"[55, 69]",55
+Köln v Frankfurt,1-1,0 - 1,[52],52
+Monchengladbach v Wolfsburg,1-1,0 - 0,"[78, 85]",78
+Bielefeld v Bayern,1-4,0 - 3,"[51, 58]",51
+Augsburg v RB Leipzig,0-2,0 - 1,[66],66
+Freiburg v Bremen,1-1,1 - 1,[],100
+Hertha v Stuttgart,0-2,0 - 1,[68],68
+Hoffenheim v Dortmund,0-1,0 - 0,[76],76
+Mainz v Leverkusen,0-1,0 - 1,[],100
+Bayern v Hertha,4-3,1 - 0,"[51, 59, 71, 85, 88, 93]",51
+Wolfsburg v Augsburg,0-0,0 - 0,[],100
+RB Leipzig v Schalke,4-0,3 - 0,[80],80
+Bremen v Bielefeld,1-0,1 - 0,[],100
+Dortmund v Freiburg,4-0,1 - 0,"[47, 66, 92]",47
+Frankfurt v Hoffenheim,2-1,0 - 1,"[54, 71]",54
+Köln v Monchengladbach,1-3,0 - 2,"[56, 84]",56
+Stuttgart v Leverkusen,1-1,0 - 1,[76],76
+Union Berlin v Mainz,4-0,1 - 0,"[49, 63, 64]",49
+Freiburg v Wolfsburg,1-1,1 - 1,[],100
+Hoffenheim v Bayern,4-1,2 - 1,"[77, 92]",77
+Schalke v Bremen,1-3,0 - 2,"[59, 93]",59
+Augsburg v Dortmund,2-0,1 - 0,[54],54
+Bielefeld v Köln,1-0,0 - 0,[78],78
+Leverkusen v RB Leipzig,1-1,1 - 1,[],100
+Mainz v Stuttgart,1-4,1 - 1,"[61, 80, 86]",61
+Monchengladbach v Union Berlin,1-1,0 - 0,"[56, 80]",56
+Hertha v Frankfurt,1-3,0 - 2,"[71, 78]",71
+Wolfsburg v Leverkusen,0-0,0 - 0,[],100
+RB Leipzig v Mainz,3-1,2 - 0,"[48, 51]",48
+Dortmund v Monchengladbach,3-0,1 - 0,"[54, 77]",54
+Bremen v Hertha,1-4,0 - 2,"[62, 69, 90]",62
+Frankfurt v Bielefeld,1-1,0 - 0,"[51, 62]",51
+Köln v Hoffenheim,2-3,1 - 2,"[86, 92]",86
+Stuttgart v Freiburg,2-3,0 - 2,"[48, 71, 81]",48
+Union Berlin v Augsburg,1-3,0 - 1,"[75, 82, 89]",75

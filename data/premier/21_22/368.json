@@ -1,0 +1,113 @@
+{
+    "time": "21.08.2021 10:00",
+    "home": "Manchester City",
+    "away": "Norwich",
+    "placar": "5-0",
+    "placarHafHome": "2",
+    "placarHafAway": "0",
+    "oddsHome": "1.10",
+    "oddsDraw": "9.50",
+    "oddsAway": "23.00",
+    "homeGols": [
+        "7'",
+        "22'",
+        "64'",
+        "71'",
+        "84'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "7'",
+        "22'",
+        "64'",
+        "71'",
+        "84'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "64%",
+            "away": "36%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "0"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "3",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "8",
+            "away": "6"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "3"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "366",
+            "away": "205"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "345",
+            "away": "173"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "5",
+            "away": "8"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "87",
+            "away": "17"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "48",
+            "away": "3"
+        }
+    ]
+}

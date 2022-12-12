@@ -1,0 +1,110 @@
+{
+    "time": "17.04.2022 09:15",
+    "home": "Newcastle",
+    "away": "Leicester",
+    "placar": "2-1",
+    "placarHafHome": "1",
+    "placarHafAway": "1",
+    "oddsHome": "2.00",
+    "oddsDraw": "3.50",
+    "oddsAway": "3.60",
+    "homeGols": [
+        "30'",
+        "90+5'"
+    ],
+    "awayGols": [
+        "19'"
+    ],
+    "allgols": [
+        "19'",
+        "30'",
+        "90+5'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "37%",
+            "away": "63%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "10",
+            "away": "4"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "5",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "6",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "13",
+            "away": "14"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "4"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "7",
+            "away": "6"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "137",
+            "away": "232"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "85",
+            "away": "179"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "12"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "51",
+            "away": "46"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "21",
+            "away": "14"
+        }
+    ]
+}

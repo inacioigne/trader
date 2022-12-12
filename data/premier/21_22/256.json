@@ -1,0 +1,110 @@
+{
+    "time": "27.11.2021 11:00",
+    "home": "Crystal Palace",
+    "away": "Aston Villa",
+    "placar": "1-2",
+    "placarHafHome": "0",
+    "placarHafAway": "1",
+    "oddsHome": "2.25",
+    "oddsDraw": "3.30",
+    "oddsAway": "3.30",
+    "homeGols": [
+        "90+5'"
+    ],
+    "awayGols": [
+        "15'",
+        "86'"
+    ],
+    "allgols": [
+        "15'",
+        "86'",
+        "90+5'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "55%",
+            "away": "45%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "3",
+            "away": "8"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "4"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "4",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "14",
+            "away": "5"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "8",
+            "away": "4"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "230",
+            "away": "185"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "204",
+            "away": "160"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "9",
+            "away": "11"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "48",
+            "away": "39"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "28",
+            "away": "19"
+        }
+    ]
+}

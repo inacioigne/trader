@@ -1,0 +1,108 @@
+{
+    "time": "04.12.2021 11:00",
+    "home": "Southampton",
+    "away": "Brighton",
+    "placar": "1-1",
+    "placarHafHome": "1",
+    "placarHafAway": "0",
+    "oddsHome": "2.60",
+    "oddsDraw": "3.10",
+    "oddsAway": "2.87",
+    "homeGols": [
+        "29'"
+    ],
+    "awayGols": [
+        "90+8'"
+    ],
+    "allgols": [
+        "29'",
+        "90+8'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "44%",
+            "away": "56%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "11",
+            "away": "7"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "4",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "5",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "5",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "11",
+            "away": "17"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "3"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "177",
+            "away": "229"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "123",
+            "away": "166"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "7",
+            "away": "11"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "45",
+            "away": "43"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "37",
+            "away": "23"
+        }
+    ]
+}

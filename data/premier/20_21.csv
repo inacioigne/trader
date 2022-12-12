@@ -1,0 +1,381 @@
+events,placarFull,placarHafTime,golsHalfTime,timesgol
+Arsenal v Brighton,2-0,0 - 0,"[49, 60]",49
+Aston Villa v Chelsea,2-1,1 - 0,"[52, 70]",52
+Fulham v Newcastle,0-2,0 - 1,[88],88
+Leeds v West Bromwich,3-1,2 - 0,"[79, 90]",79
+Leicester v Tottenham,2-4,1 - 1,"[52, 76, 87, 96]",52
+Liverpool v Crystal Palace,2-0,1 - 0,[74],74
+Manchester City v Everton,5-0,2 - 0,"[53, 71, 76]",53
+Sheffield Utd v Burnley,1-0,1 - 0,[],100
+West Ham v Southampton,3-0,2 - 0,[86],86
+Wolverhampton v Manchester Utd,1-2,1 - 2,[],100
+Burnley v Liverpool,0-3,0 - 1,"[52, 88]",52
+West Bromwich v West Ham,1-3,1 - 1,"[82, 88]",82
+Crystal Palace v Arsenal,1-3,0 - 1,"[62, 91, 95]",62
+Everton v Wolverhampton,1-0,0 - 0,[48],48
+Newcastle v Sheffield Utd,1-0,1 - 0,[],100
+Tottenham v Aston Villa,1-2,1 - 2,[],100
+Chelsea v Leicester,2-1,0 - 0,"[47, 66, 76]",47
+Brighton v Manchester City,3-2,0 - 1,"[48, 50, 72, 76]",48
+Manchester Utd v Fulham,1-1,1 - 0,[76],76
+Southampton v Leeds,0-2,0 - 0,"[73, 95]",73
+Everton v Sheffield Utd,0-1,0 - 1,[],100
+West Bromwich v Liverpool,1-2,1 - 1,[95],95
+Tottenham v Wolverhampton,2-0,1 - 0,[62],62
+Crystal Palace v Aston Villa,3-2,1 - 2,"[75, 84]",75
+Brighton v West Ham,1-1,0 - 0,"[84, 87]",84
+Southampton v Fulham,3-1,1 - 0,"[60, 75, 82]",60
+Burnley v Leeds,0-4,0 - 1,"[59, 77, 79]",59
+Newcastle v Manchester City,3-4,2 - 2,"[62, 64, 66]",62
+Manchester Utd v Liverpool,2-4,1 - 2,"[47, 68, 90]",47
+Aston Villa v Everton,0-0,0 - 0,[],100
+Chelsea v Arsenal,0-1,0 - 1,[],100
+Southampton v Crystal Palace,3-1,1 - 1,"[48, 75]",48
+Manchester Utd v Leicester,1-2,1 - 1,[66],66
+Fulham v Burnley,0-2,0 - 2,[],100
+Arsenal v West Bromwich,3-1,2 - 0,"[67, 90]",67
+West Ham v Everton,0-1,0 - 1,[],100
+Aston Villa v Manchester Utd,1-3,1 - 0,"[52, 56, 87]",52
+Wolverhampton v Brighton,2-1,0 - 1,"[76, 90]",76
+Liverpool v Southampton,2-0,1 - 0,[90],90
+Manchester City v Chelsea,1-2,1 - 0,"[63, 92]",63
+Sheffield Utd v Crystal Palace,0-2,0 - 1,[88],88
+Leeds v Tottenham,3-1,2 - 1,[84],84
+Leicester v Newcastle,2-4,0 - 2,"[64, 73, 80, 87]",64
+Burnley v West Ham,1-2,1 - 2,[],100
+West Bromwich v Wolverhampton,1-1,0 - 1,[62],62
+Tottenham v Sheffield Utd,4-0,1 - 0,"[61, 69, 77]",61
+Newcastle v Arsenal,0-2,0 - 1,[66],66
+Everton v Aston Villa,1-2,1 - 1,[80],80
+Chelsea v Fulham,2-0,1 - 0,[49],49
+Brighton v Leeds,2-0,1 - 0,[79],79
+Crystal Palace v Manchester City,0-2,0 - 0,"[57, 59]",57
+Southampton v Leicester,1-1,0 - 0,"[61, 68]",61
+Leicester v Crystal Palace,2-1,0 - 1,"[50, 80]",50
+Aston Villa v West Bromwich,2-2,1 - 1,"[47, 92]",47
+Leeds v Manchester Utd,0-0,0 - 0,[],100
+Wolverhampton v Burnley,0-4,0 - 3,[85],85
+Sheffield Utd v Brighton,1-0,1 - 0,[],100
+West Ham v Chelsea,0-1,0 - 1,[],100
+Liverpool v Newcastle,1-1,1 - 0,[95],95
+Arsenal v Everton,0-1,0 - 0,[76],76
+Leicester v West Bromwich,3-0,3 - 0,[],100
+Aston Villa v Manchester City,1-2,1 - 2,[],100
+Tottenham v Southampton,2-1,0 - 1,"[60, 90]",60
+Chelsea v Brighton,0-0,0 - 0,[],100
+Leeds v Liverpool,1-1,0 - 1,[87],87
+Manchester Utd v Burnley,3-1,0 - 0,"[48, 50, 84, 93]",48
+Arsenal v Fulham,1-1,0 - 0,"[59, 97]",59
+Wolverhampton v Sheffield Utd,1-0,0 - 0,[59],59
+Newcastle v West Ham,3-2,2 - 0,"[73, 80, 82]",73
+Everton v Tottenham,2-2,1 - 1,"[62, 68]",62
+Brighton v Everton,0-0,0 - 0,[],100
+West Bromwich v Southampton,3-0,2 - 0,[69],69
+Sheffield Utd v Arsenal,0-3,0 - 1,"[71, 85]",71
+Tottenham v Manchester Utd,1-3,1 - 0,"[57, 79, 96]",57
+West Ham v Leicester,3-2,2 - 0,"[48, 70, 91]",48
+Burnley v Newcastle,1-2,1 - 0,"[59, 64]",59
+Crystal Palace v Chelsea,1-4,0 - 3,"[63, 78]",63
+Liverpool v Aston Villa,2-1,0 - 1,"[57, 91]",57
+Manchester City v Leeds,1-2,0 - 1,"[76, 91]",76
+Fulham v Wolverhampton,0-1,0 - 0,[92],92
+Wolverhampton v West Ham,2-3,1 - 3,[68],68
+Everton v Crystal Palace,1-1,0 - 0,"[56, 86]",56
+Manchester Utd v Brighton,2-1,0 - 1,"[62, 83]",62
+Aston Villa v Fulham,3-1,0 - 0,"[61, 78, 81, 87]",61
+Newcastle v Tottenham,2-2,1 - 2,[85],85
+Southampton v Burnley,3-2,2 - 2,[66],66
+Arsenal v Liverpool,0-3,0 - 0,"[64, 68, 82]",64
+Leicester v Manchester City,0-2,0 - 0,"[58, 74]",58
+Leeds v Sheffield Utd,2-1,1 - 1,[49],49
+Chelsea v West Bromwich,2-5,1 - 2,"[63, 68, 71, 91]",63
+Aston Villa v Tottenham,0-2,0 - 1,[68],68
+West Ham v Arsenal,3-3,3 - 1,"[61, 82]",61
+Brighton v Newcastle,3-0,1 - 0,"[51, 68]",51
+Fulham v Leeds,1-2,1 - 1,[58],58
+Wolverhampton v Liverpool,0-1,0 - 1,[],100
+Manchester Utd v West Ham,1-0,0 - 0,[53],53
+Arsenal v Tottenham,2-1,1 - 1,[64],64
+Leicester v Sheffield Utd,5-0,1 - 0,"[64, 69, 78, 80]",64
+Southampton v Brighton,1-2,1 - 1,[56],56
+Fulham v Manchester City,0-3,0 - 0,"[47, 56, 60]",47
+Everton v Burnley,1-2,1 - 2,[],100
+Crystal Palace v West Bromwich,1-0,1 - 0,[],100
+Leeds v Chelsea,0-0,0 - 0,[],100
+Newcastle v Aston Villa,1-1,0 - 0,"[86, 94]",86
+Manchester City v Southampton,5-2,3 - 1,"[55, 56, 59]",55
+West Ham v Leeds,2-0,2 - 0,[],100
+Chelsea v Everton,2-0,1 - 0,[65],65
+Tottenham v Crystal Palace,4-1,1 - 1,"[49, 52, 76]",49
+Manchester City v Manchester Utd,0-2,0 - 1,[50],50
+Liverpool v Fulham,0-1,0 - 1,[],100
+West Bromwich v Newcastle,0-0,0 - 0,[],100
+Brighton v Leicester,1-2,1 - 0,"[62, 87]",62
+Aston Villa v Wolverhampton,0-0,0 - 0,[],100
+Sheffield Utd v Southampton,0-2,0 - 1,[49],49
+Burnley v Arsenal,1-1,1 - 1,[],100
+Liverpool v Chelsea,0-1,0 - 1,[],100
+Fulham v Tottenham,0-1,0 - 1,[],100
+West Bromwich v Everton,0-1,0 - 0,[65],65
+Crystal Palace v Manchester Utd,0-0,0 - 0,[],100
+Burnley v Leicester,1-1,1 - 1,[],100
+Sheffield Utd v Aston Villa,1-0,1 - 0,[],100
+Manchester City v Wolverhampton,4-1,1 - 0,"[61, 80, 90, 93]",61
+Everton v Southampton,1-0,1 - 0,[],100
+Sheffield Utd v Liverpool,0-2,0 - 0,"[48, 64]",48
+Chelsea v Manchester Utd,0-0,0 - 0,[],100
+Tottenham v Burnley,4-0,3 - 0,[55],55
+Crystal Palace v Fulham,0-0,0 - 0,[],100
+Leicester v Arsenal,1-3,1 - 2,[52],52
+Newcastle v Wolverhampton,1-1,0 - 0,"[52, 73]",52
+Leeds v Aston Villa,0-1,0 - 1,[],100
+West Bromwich v Brighton,1-0,1 - 0,[],100
+Manchester City v West Ham,2-1,1 - 1,[68],68
+Leeds v Southampton,3-0,0 - 0,"[47, 78, 84]",47
+Brighton v Crystal Palace,1-2,0 - 1,"[55, 95]",55
+Manchester Utd v Newcastle,3-1,1 - 1,"[57, 75]",57
+Arsenal v Manchester City,0-1,0 - 1,[],100
+Aston Villa v Leicester,1-2,0 - 2,[48],48
+West Ham v Tottenham,2-1,1 - 0,"[47, 64]",47
+Fulham v Sheffield Utd,1-0,0 - 0,[61],61
+Liverpool v Everton,0-2,0 - 1,[83],83
+Burnley v West Bromwich,0-0,0 - 0,[],100
+Southampton v Chelsea,1-1,1 - 0,[54],54
+Wolverhampton v Leeds,1-0,0 - 0,[64],64
+Everton v Manchester City,1-3,1 - 1,"[63, 77]",63
+Burnley v Fulham,1-1,0 - 0,"[49, 52]",49
+Chelsea v Newcastle,2-0,2 - 0,[],100
+West Ham v Sheffield Utd,3-0,1 - 0,"[58, 96]",58
+Everton v Fulham,0-2,0 - 0,"[48, 65]",48
+Arsenal v Leeds,4-2,3 - 0,"[47, 58, 69]",47
+West Bromwich v Manchester Utd,1-1,1 - 1,[],100
+Southampton v Wolverhampton,1-2,1 - 0,"[53, 66]",53
+Brighton v Aston Villa,0-0,0 - 0,[],100
+Manchester City v Tottenham,3-0,1 - 0,"[50, 66]",50
+Crystal Palace v Burnley,0-3,0 - 2,[47],47
+Leicester v Liverpool,3-1,0 - 0,"[67, 78, 81, 85]",67
+Leeds v Crystal Palace,2-0,1 - 0,[52],52
+Sheffield Utd v Chelsea,1-2,0 - 1,"[54, 58]",54
+Liverpool v Manchester City,1-4,0 - 0,"[49, 63, 73, 76, 83]",49
+Wolverhampton v Leicester,0-0,0 - 0,[],100
+Tottenham v West Bromwich,2-0,0 - 0,"[54, 58]",54
+Manchester Utd v Everton,3-3,2 - 0,"[49, 52, 70, 95]",49
+Fulham v West Ham,0-0,0 - 0,[],100
+Burnley v Brighton,1-1,0 - 1,[53],53
+Newcastle v Southampton,3-2,3 - 1,[48],48
+Aston Villa v Arsenal,1-0,1 - 0,[],100
+Tottenham v Chelsea,0-1,0 - 1,[],100
+Aston Villa v West Ham,1-3,0 - 0,"[51, 56, 81, 83]",51
+Liverpool v Brighton,0-1,0 - 0,[56],56
+Leeds v Everton,1-2,0 - 2,[48],48
+Burnley v Manchester City,0-2,0 - 2,[],100
+Fulham v Leicester,0-2,0 - 2,[],100
+Manchester Utd v Southampton,9-0,4 - 0,"[69, 71, 87, 90, 93]",69
+Newcastle v Crystal Palace,1-2,1 - 2,[],100
+Sheffield Utd v West Bromwich,2-1,0 - 1,"[56, 73]",56
+Wolverhampton v Arsenal,2-1,1 - 1,[49],49
+Brighton v Tottenham,1-0,1 - 0,[],100
+West Ham v Liverpool,1-3,0 - 0,"[57, 68, 84, 87]",57
+Leicester v Leeds,1-3,1 - 1,"[70, 84]",70
+Chelsea v Burnley,2-0,1 - 0,[84],84
+Southampton v Aston Villa,0-1,0 - 1,[],100
+Arsenal v Manchester Utd,0-0,0 - 0,[],100
+Crystal Palace v Wolverhampton,1-0,0 - 0,[60],60
+Manchester City v Sheffield Utd,1-0,1 - 0,[],100
+West Bromwich v Fulham,2-2,0 - 1,"[47, 66, 77]",47
+Everton v Newcastle,0-2,0 - 0,"[73, 93]",73
+Tottenham v Liverpool,1-3,0 - 1,"[47, 49, 65]",47
+Everton v Leicester,1-1,1 - 0,[67],67
+Manchester Utd v Sheffield Utd,1-2,0 - 1,"[64, 74]",64
+Brighton v Fulham,0-0,0 - 0,[],100
+Burnley v Aston Villa,3-2,0 - 1,"[52, 68, 76, 79]",52
+Chelsea v Wolverhampton,0-0,0 - 0,[],100
+Southampton v Arsenal,1-3,1 - 2,[72],72
+West Bromwich v Manchester City,0-5,0 - 4,[57],57
+Crystal Palace v West Ham,2-3,1 - 2,"[65, 97]",65
+Newcastle v Leeds,1-2,0 - 1,"[57, 61]",57
+Aston Villa v Newcastle,2-0,2 - 0,[],100
+Liverpool v Burnley,0-1,0 - 0,[83],83
+Fulham v Manchester Utd,1-2,1 - 1,[65],65
+Manchester City v Aston Villa,2-0,0 - 0,"[79, 90]",79
+Leicester v Chelsea,2-0,2 - 0,[],100
+West Ham v West Bromwich,2-1,1 - 0,"[51, 66]",51
+Arsenal v Newcastle,3-0,0 - 0,"[50, 60, 77]",50
+Manchester City v Crystal Palace,4-0,1 - 0,"[56, 68, 88]",56
+Liverpool v Manchester Utd,0-0,0 - 0,[],100
+Sheffield Utd v Tottenham,1-3,0 - 2,"[59, 62]",59
+Leicester v Southampton,2-0,1 - 0,[95],95
+Fulham v Chelsea,0-1,0 - 0,[78],78
+Leeds v Brighton,0-1,0 - 1,[],100
+West Ham v Burnley,1-0,1 - 0,[],100
+Wolverhampton v West Bromwich,2-3,2 - 1,"[52, 56]",52
+Arsenal v Crystal Palace,0-0,0 - 0,[],100
+Tottenham v Fulham,1-1,1 - 0,[74],74
+Manchester City v Brighton,1-0,1 - 0,[],100
+Burnley v Manchester Utd,0-1,0 - 0,[71],71
+Wolverhampton v Everton,1-2,1 - 1,[77],77
+Sheffield Utd v Newcastle,1-0,0 - 0,[73],73
+Southampton v Liverpool,1-0,1 - 0,[],100
+Chelsea v Manchester City,1-3,0 - 3,[92],92
+Newcastle v Leicester,1-2,0 - 0,"[55, 72, 82]",55
+West Bromwich v Arsenal,0-4,0 - 2,"[60, 64]",60
+Brighton v Wolverhampton,3-3,1 - 3,"[46, 70]",46
+Crystal Palace v Sheffield Utd,2-0,2 - 0,[],100
+Tottenham v Leeds,3-0,2 - 0,[50],50
+Manchester Utd v Aston Villa,2-1,1 - 0,"[58, 61]",58
+Everton v West Ham,0-1,0 - 0,[86],86
+Newcastle v Liverpool,0-0,0 - 0,[],100
+Manchester Utd v Wolverhampton,1-0,0 - 0,[93],93
+Brighton v Arsenal,0-1,0 - 0,[66],66
+Burnley v Sheffield Utd,1-0,1 - 0,[],100
+Southampton v West Ham,0-0,0 - 0,[],100
+West Bromwich v Leeds,0-5,0 - 4,[72],72
+Chelsea v Aston Villa,1-1,1 - 0,[50],50
+Crystal Palace v Leicester,1-1,0 - 0,"[58, 83]",58
+Wolverhampton v Tottenham,1-1,0 - 1,[86],86
+Liverpool v West Bromwich,1-1,1 - 0,[82],82
+West Ham v Brighton,2-2,0 - 1,"[60, 70, 82]",60
+Leeds v Burnley,1-0,1 - 0,[],100
+Manchester City v Newcastle,2-0,1 - 0,[55],55
+Sheffield Utd v Everton,0-1,0 - 0,[80],80
+Arsenal v Chelsea,3-1,2 - 0,"[56, 85]",56
+Aston Villa v Crystal Palace,3-0,1 - 0,"[66, 76]",66
+Fulham v Southampton,0-0,0 - 0,[],100
+Leicester v Manchester Utd,2-2,1 - 1,"[79, 85]",79
+Chelsea v West Ham,3-0,1 - 0,"[78, 80]",78
+Burnley v Wolverhampton,2-1,1 - 0,"[51, 89]",51
+West Bromwich v Aston Villa,0-3,0 - 1,"[84, 88]",84
+Manchester Utd v Leeds,6-2,4 - 1,"[66, 70, 73]",66
+Tottenham v Leicester,0-2,0 - 1,[59],59
+Brighton v Sheffield Utd,1-1,0 - 0,"[63, 87]",63
+Newcastle v Fulham,1-1,0 - 1,[64],64
+Everton v Arsenal,2-1,2 - 1,[],100
+Southampton v Manchester City,0-1,0 - 1,[],100
+Crystal Palace v Liverpool,0-7,0 - 3,"[52, 68, 81, 84]",52
+Sheffield Utd v Manchester Utd,2-3,1 - 2,"[51, 87]",51
+Aston Villa v Burnley,0-0,0 - 0,[],100
+Fulham v Brighton,0-0,0 - 0,[],100
+Liverpool v Tottenham,2-1,1 - 1,[90],90
+West Ham v Crystal Palace,1-1,0 - 1,[55],55
+Arsenal v Southampton,1-1,0 - 1,[52],52
+Leeds v Newcastle,5-2,1 - 1,"[61, 65, 77, 85, 88]",61
+Leicester v Everton,0-2,0 - 1,[72],72
+Manchester City v West Bromwich,1-1,1 - 1,[],100
+Wolverhampton v Chelsea,2-1,0 - 0,"[49, 66, 95]",49
+Arsenal v Burnley,0-1,0 - 0,[73],73
+Leicester v Brighton,3-0,3 - 0,[],100
+Fulham v Liverpool,1-1,1 - 0,[79],79
+Crystal Palace v Tottenham,1-1,0 - 1,[81],81
+Southampton v Sheffield Utd,3-0,1 - 0,"[62, 83]",62
+Everton v Chelsea,1-0,1 - 0,[],100
+Manchester Utd v Manchester City,0-0,0 - 0,[],100
+Newcastle v West Bromwich,2-1,1 - 0,"[50, 82]",50
+Wolverhampton v Aston Villa,0-1,0 - 0,[94],94
+Leeds v West Ham,1-2,1 - 1,[80],80
+Brighton v Southampton,1-2,1 - 1,[81],81
+Liverpool v Wolverhampton,4-0,1 - 0,"[58, 67, 78]",58
+Tottenham v Arsenal,2-0,2 - 0,[],100
+Sheffield Utd v Leicester,1-2,1 - 1,[90],90
+West Bromwich v Crystal Palace,1-5,1 - 1,"[55, 59, 68, 82]",55
+Chelsea v Leeds,3-1,1 - 1,"[61, 93]",61
+West Ham v Manchester Utd,1-3,1 - 0,"[65, 68, 78]",65
+Manchester City v Fulham,2-0,2 - 0,[],100
+Burnley v Everton,1-1,1 - 1,[],100
+West Ham v Aston Villa,2-1,1 - 1,[46],46
+Leicester v Fulham,1-2,0 - 2,[86],86
+Arsenal v Wolverhampton,1-2,1 - 2,[],100
+Chelsea v Tottenham,0-0,0 - 0,[],100
+Southampton v Manchester Utd,2-3,2 - 0,"[59, 74, 92]",59
+West Bromwich v Sheffield Utd,1-0,1 - 0,[],100
+Everton v Leeds,0-1,0 - 0,[79],79
+Manchester City v Burnley,5-0,3 - 0,"[66, 69]",66
+Brighton v Liverpool,1-1,0 - 0,"[60, 93]",60
+Crystal Palace v Newcastle,0-2,0 - 0,"[88, 90]",88
+Wolverhampton v Southampton,1-1,0 - 0,"[58, 75]",58
+Burnley v Crystal Palace,1-0,1 - 0,[],100
+Liverpool v Leicester,3-0,2 - 0,[86],86
+Leeds v Arsenal,0-0,0 - 0,[],100
+Sheffield Utd v West Ham,0-1,0 - 0,[56],56
+Fulham v Everton,2-3,1 - 3,[70],70
+Manchester Utd v West Bromwich,1-0,0 - 0,[56],56
+Tottenham v Manchester City,2-0,1 - 0,[65],65
+Aston Villa v Brighton,1-2,0 - 1,"[47, 56]",47
+Newcastle v Chelsea,0-2,0 - 1,[65],65
+Arsenal v Aston Villa,0-3,0 - 1,"[72, 75]",72
+Manchester City v Liverpool,1-1,1 - 1,[],100
+Leicester v Wolverhampton,1-0,1 - 0,[],100
+West Bromwich v Tottenham,0-1,0 - 0,[88],88
+West Ham v Fulham,1-0,0 - 0,[91],91
+Chelsea v Sheffield Utd,4-1,2 - 1,"[77, 80]",77
+Crystal Palace v Leeds,4-1,3 - 1,[70],70
+Everton v Manchester Utd,1-3,1 - 2,[95],95
+Southampton v Newcastle,2-0,1 - 0,[82],82
+Brighton v Burnley,0-0,0 - 0,[],100
+Leeds v Leicester,1-4,0 - 2,"[48, 76, 91]",48
+Fulham v West Bromwich,2-0,2 - 0,[],100
+Tottenham v Brighton,2-1,1 - 0,"[56, 73]",56
+Manchester Utd v Arsenal,0-1,0 - 0,[69],69
+Newcastle v Everton,2-1,0 - 0,"[56, 84, 91]",56
+Aston Villa v Southampton,3-4,0 - 3,"[58, 62, 93, 97]",58
+Liverpool v West Ham,2-1,1 - 1,[85],85
+Burnley v Chelsea,0-3,0 - 1,"[63, 70]",63
+Sheffield Utd v Manchester City,0-1,0 - 1,[],100
+Wolverhampton v Crystal Palace,2-0,2 - 0,[],100
+Burnley v Tottenham,0-1,0 - 0,[76],76
+Brighton v West Bromwich,1-1,1 - 0,[83],83
+Arsenal v Leicester,0-1,0 - 0,[80],80
+Wolverhampton v Newcastle,1-1,0 - 0,"[80, 89]",80
+Southampton v Everton,2-0,2 - 0,[],100
+Liverpool v Sheffield Utd,2-1,1 - 1,[64],64
+Manchester Utd v Chelsea,0-0,0 - 0,[],100
+Fulham v Crystal Palace,1-2,0 - 1,"[64, 95]",64
+West Ham v Manchester City,1-1,1 - 0,[51],51
+Aston Villa v Leeds,0-3,0 - 0,"[55, 67, 74]",55
+Leeds v Wolverhampton,0-1,0 - 0,[70],70
+West Bromwich v Burnley,0-0,0 - 0,[],100
+Leicester v Aston Villa,0-1,0 - 0,[91],91
+Tottenham v West Ham,3-3,3 - 0,"[82, 85, 94]",82
+Crystal Palace v Brighton,1-1,1 - 0,[90],90
+Sheffield Utd v Fulham,1-1,0 - 0,"[77, 85]",77
+Newcastle v Manchester Utd,1-4,1 - 1,"[86, 90, 96]",86
+Manchester City v Arsenal,1-0,1 - 0,[],100
+Chelsea v Southampton,3-3,2 - 1,"[57, 59, 92]",57
+Everton v Liverpool,2-2,1 - 1,"[72, 81]",72
+Aston Villa v Liverpool,7-2,4 - 1,"[55, 60, 66, 75]",55
+Manchester Utd v Tottenham,1-6,1 - 4,"[51, 79]",51
+Arsenal v Sheffield Utd,2-1,0 - 0,"[61, 64, 83]",61
+Wolverhampton v Fulham,1-0,0 - 0,[56],56
+Leicester v West Ham,0-3,0 - 2,[83],83
+Southampton v West Bromwich,2-0,1 - 0,[69],69
+Newcastle v Burnley,3-1,1 - 0,"[61, 65, 77]",61
+Leeds v Manchester City,1-1,0 - 1,[59],59
+Everton v Brighton,4-2,2 - 1,"[52, 70, 92]",52
+Chelsea v Crystal Palace,4-0,0 - 0,"[50, 66, 78, 82]",50
+Liverpool v Arsenal,3-1,2 - 1,[88],88
+Fulham v Aston Villa,0-3,0 - 2,[48],48
+West Ham v Wolverhampton,4-0,1 - 0,"[57, 66, 93]",57
+Manchester City v Leicester,2-5,1 - 1,"[54, 58, 77, 84, 88]",54
+Tottenham v Newcastle,1-1,1 - 0,[97],97
+Sheffield Utd v Leeds,0-1,0 - 0,[88],88
+Burnley v Southampton,0-1,0 - 1,[],100
+West Bromwich v Chelsea,3-3,3 - 0,"[55, 70, 93]",55
+Crystal Palace v Everton,1-2,1 - 2,[],100
+Brighton v Manchester Utd,2-3,1 - 1,"[55, 95, 100]",55
+Wolverhampton v Manchester City,1-3,0 - 2,"[78, 95]",78
+Aston Villa v Sheffield Utd,1-0,0 - 0,[63],63
+Leicester v Burnley,4-2,1 - 1,"[50, 61, 73, 79]",50
+Chelsea v Liverpool,0-2,0 - 0,"[50, 54]",50
+Newcastle v Brighton,0-3,0 - 2,[83],83
+Southampton v Tottenham,2-5,1 - 1,"[47, 64, 73, 82, 90]",47
+Arsenal v West Ham,2-1,1 - 1,[85],85
+Manchester Utd v Crystal Palace,1-3,0 - 1,"[74, 80, 85]",74
+Leeds v Fulham,4-3,2 - 1,"[50, 57, 62, 67]",50
+Everton v West Bromwich,5-2,2 - 1,"[47, 54, 62, 66]",47
+Brighton v Chelsea,1-3,0 - 1,"[54, 56, 66]",54
+Sheffield Utd v Wolverhampton,0-2,0 - 2,[],100
+Tottenham v Everton,0-1,0 - 0,[55],55
+West Bromwich v Leicester,0-3,0 - 0,"[56, 74, 84]",56
+West Ham v Newcastle,0-2,0 - 0,"[56, 87]",56
+Liverpool v Leeds,4-3,3 - 2,"[66, 88]",66
+Crystal Palace v Southampton,1-0,1 - 0,[],100
+Fulham v Arsenal,0-3,0 - 1,"[49, 57]",49

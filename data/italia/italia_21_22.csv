@@ -1,0 +1,381 @@
+data,events,placarFull,placarHafTime,golsHalfTime,timesgol
+22.05.2022,Salernitana v Udinese,0-4,0 - 3,[57],57
+22.05.2022,Venezia v Cagliari,0-0,0 - 0,[],100
+22.05.2022,Inter v Sampdoria,3-0,0 - 0,"[49, 55, 57]",49
+22.05.2022,Sassuolo v AC Milan,0-3,0 - 3,[],100
+22.05.2022,Spezia v Napoli,0-3,0 - 3,[],100
+21.05.2022,Atalanta v Empoli,0-1,0 - 0,[79],79
+21.05.2022,Fiorentina v Juventus,2-0,1 - 0,[92],92
+21.05.2022,Lazio v Verona,3-3,2 - 2,"[62, 76]",62
+21.05.2022,Genoa v Bologna,0-1,0 - 0,[66],66
+20.05.2022,Torino v AS Roma,0-3,0 - 2,[78],78
+16.05.2022,Juventus v Lazio,2-2,2 - 0,"[51, 96]",51
+16.05.2022,Sampdoria v Fiorentina,4-1,2 - 0,"[71, 84, 89]",71
+15.05.2022,Cagliari v Inter,1-3,0 - 1,"[51, 54, 84]",51
+15.05.2022,AC Milan v Atalanta,2-0,0 - 0,"[56, 75]",56
+15.05.2022,Napoli v Genoa,3-0,1 - 0,"[65, 81]",65
+15.05.2022,Bologna v Sassuolo,1-3,0 - 1,"[75, 80, 92]",75
+14.05.2022,AS Roma v Venezia,1-1,0 - 1,[76],76
+14.05.2022,Udinese v Spezia,2-3,1 - 2,"[47, 94]",47
+14.05.2022,Verona v Torino,0-1,0 - 1,[],100
+14.05.2022,Empoli v Salernitana,1-1,1 - 0,[76],76
+09.05.2022,Fiorentina v AS Roma,2-0,2 - 0,[],100
+08.05.2022,Verona v AC Milan,1-3,1 - 1,"[50, 86]",50
+08.05.2022,Salernitana v Cagliari,1-1,0 - 0,"[68, 98]",68
+08.05.2022,Venezia v Bologna,4-3,2 - 1,"[55, 68, 78, 92]",55
+08.05.2022,Spezia v Atalanta,1-3,1 - 1,"[73, 87]",73
+07.05.2022,Lazio v Sampdoria,2-0,1 - 0,[59],59
+07.05.2022,Sassuolo v Udinese,1-1,1 - 0,[77],77
+07.05.2022,Torino v Napoli,0-1,0 - 0,[73],73
+06.05.2022,Genoa v Juventus,2-1,0 - 0,"[48, 87, 95]",48
+06.05.2022,Inter v Empoli,4-2,2 - 2,"[64, 94]",64
+05.05.2022,Salernitana v Venezia,2-1,1 - 0,"[58, 67]",58
+02.05.2022,Atalanta v Salernitana,1-1,0 - 1,[88],88
+01.05.2022,AS Roma v Bologna,0-0,0 - 0,[],100
+01.05.2022,Udinese v Inter,1-2,0 - 2,[72],72
+01.05.2022,AC Milan v Fiorentina,1-0,0 - 0,[82],82
+01.05.2022,Empoli v Torino,1-3,0 - 0,"[56, 78, 87, 96]",56
+01.05.2022,Juventus v Venezia,2-1,1 - 0,"[71, 76]",71
+30.04.2022,Spezia v Lazio,3-4,2 - 1,"[54, 56, 68, 90]",54
+30.04.2022,Sampdoria v Genoa,1-0,1 - 0,[],100
+30.04.2022,Cagliari v Verona,1-2,0 - 2,[57],57
+30.04.2022,Napoli v Sassuolo,6-1,4 - 0,"[54, 80, 87]",54
+27.04.2022,Atalanta v Torino,4-4,2 - 2,"[63, 67, 78, 84]",63
+27.04.2022,Bologna v Inter,2-1,1 - 1,[81],81
+27.04.2022,Fiorentina v Udinese,0-4,0 - 2,"[91, 95]",91
+25.04.2022,Sassuolo v Juventus,1-2,1 - 1,[88],88
+24.04.2022,Lazio v AC Milan,1-2,1 - 0,"[50, 92]",50
+24.04.2022,Genoa v Cagliari,1-0,0 - 0,[89],89
+24.04.2022,Bologna v Udinese,2-2,1 - 1,"[46, 59]",46
+24.04.2022,Empoli v Napoli,3-2,0 - 1,"[53, 80, 83, 88]",53
+24.04.2022,Salernitana v Fiorentina,2-1,1 - 0,"[64, 79]",64
+23.04.2022,Verona v Sampdoria,1-1,0 - 1,[78],78
+23.04.2022,Inter v AS Roma,3-1,2 - 0,"[52, 85]",52
+23.04.2022,Torino v Spezia,2-1,1 - 0,"[69, 97]",69
+23.04.2022,Venezia v Atalanta,1-3,0 - 1,"[47, 63, 80]",47
+20.04.2022,Udinese v Salernitana,0-1,0 - 0,[93],93
+18.04.2022,Atalanta v Verona,1-2,0 - 1,"[55, 82]",55
+18.04.2022,Napoli v AS Roma,1-1,1 - 0,[91],91
+16.04.2022,Lazio v Torino,1-1,0 - 0,"[56, 92]",56
+16.04.2022,Juventus v Bologna,1-1,0 - 0,"[52, 95]",52
+16.04.2022,Fiorentina v Venezia,1-0,1 - 0,[],100
+16.04.2022,Sampdoria v Salernitana,1-2,1 - 2,[],100
+16.04.2022,Udinese v Empoli,4-1,1 - 0,"[52, 70, 79, 87]",52
+16.04.2022,Cagliari v Sassuolo,1-0,1 - 0,[],100
+15.04.2022,AC Milan v Genoa,2-0,1 - 0,[87],87
+15.04.2022,Spezia v Inter,1-3,0 - 1,"[73, 88, 93]",73
+11.04.2022,Bologna v Sampdoria,2-0,0 - 0,"[61, 76]",61
+10.04.2022,Torino v AC Milan,0-0,0 - 0,[],100
+10.04.2022,AS Roma v Salernitana,2-1,0 - 1,"[82, 85]",82
+10.04.2022,Napoli v Fiorentina,2-3,0 - 1,"[58, 66, 72, 84]",58
+10.04.2022,Sassuolo v Atalanta,2-1,1 - 0,"[61, 93]",61
+10.04.2022,Venezia v Udinese,1-2,0 - 1,"[86, 94]",86
+10.04.2022,Genoa v Lazio,1-4,0 - 2,"[63, 68, 76]",63
+09.04.2022,Cagliari v Juventus,1-2,1 - 1,[75],75
+09.04.2022,Inter v Verona,2-0,2 - 0,[],100
+09.04.2022,Empoli v Spezia,0-0,0 - 0,[],100
+04.04.2022,AC Milan v Bologna,0-0,0 - 0,[],100
+04.04.2022,Verona v Genoa,1-0,1 - 0,[],100
+03.04.2022,Juventus v Inter,0-1,0 - 1,[],100
+03.04.2022,Sampdoria v AS Roma,0-1,0 - 1,[],100
+03.04.2022,Atalanta v Napoli,1-3,0 - 2,"[58, 81]",58
+03.04.2022,Udinese v Cagliari,5-1,2 - 1,"[49, 59, 73]",49
+03.04.2022,Fiorentina v Empoli,1-0,0 - 0,[58],58
+02.04.2022,Salernitana v Torino,0-1,0 - 1,[],100
+02.04.2022,Lazio v Sassuolo,2-1,1 - 0,"[51, 94]",51
+02.04.2022,Spezia v Venezia,1-0,0 - 0,[94],94
+20.03.2022,Bologna v Atalanta,0-1,0 - 0,[82],82
+20.03.2022,AS Roma v Lazio,3-0,3 - 0,[],100
+20.03.2022,Empoli v Verona,1-1,1 - 0,[72],72
+20.03.2022,Juventus v Salernitana,2-0,2 - 0,[],100
+20.03.2022,Venezia v Sampdoria,0-2,0 - 2,[],100
+19.03.2022,Cagliari v AC Milan,0-1,0 - 0,[59],59
+19.03.2022,Inter v Fiorentina,1-1,0 - 0,"[50, 55]",50
+19.03.2022,Napoli v Udinese,2-1,0 - 1,"[52, 63]",52
+18.03.2022,Genoa v Torino,1-0,1 - 0,[],100
+18.03.2022,Sassuolo v Spezia,4-1,1 - 1,"[48, 78, 81]",48
+14.03.2022,Lazio v Venezia,1-0,0 - 0,[58],58
+13.03.2022,Torino v Inter,1-1,1 - 0,[93],93
+13.03.2022,Atalanta v Genoa,0-0,0 - 0,[],100
+13.03.2022,Udinese v AS Roma,1-1,1 - 0,[94],94
+13.03.2022,Verona v Napoli,1-2,0 - 1,"[71, 77]",71
+13.03.2022,Fiorentina v Bologna,1-0,0 - 0,[70],70
+12.03.2022,AC Milan v Empoli,1-0,1 - 0,[],100
+12.03.2022,Sampdoria v Juventus,1-3,0 - 2,"[84, 88]",84
+12.03.2022,Salernitana v Sassuolo,2-2,1 - 2,[81],81
+12.03.2022,Spezia v Cagliari,2-0,0 - 0,"[55, 74]",55
+06.03.2022,Napoli v AC Milan,0-1,0 - 0,[49],49
+06.03.2022,Juventus v Spezia,1-0,1 - 0,[],100
+06.03.2022,Bologna v Torino,0-0,0 - 0,[],100
+06.03.2022,Fiorentina v Verona,1-1,1 - 1,[],100
+06.03.2022,Venezia v Sassuolo,1-4,1 - 3,[71],71
+06.03.2022,Genoa v Empoli,0-0,0 - 0,[],100
+05.03.2022,Cagliari v Lazio,0-3,0 - 2,[62],62
+05.03.2022,AS Roma v Atalanta,1-0,1 - 0,[],100
+05.03.2022,Udinese v Sampdoria,2-1,2 - 1,[],100
+04.03.2022,Inter v Salernitana,5-0,2 - 0,"[56, 64, 69]",56
+28.02.2022,Atalanta v Sampdoria,4-0,2 - 0,"[61, 86]",61
+27.02.2022,Lazio v Napoli,1-2,0 - 0,"[62, 88, 94]",62
+27.02.2022,Spezia v AS Roma,0-1,0 - 0,[99],99
+27.02.2022,Verona v Venezia,3-1,0 - 0,"[54, 63, 81, 88]",54
+27.02.2022,Torino v Cagliari,1-2,0 - 1,"[54, 62]",54
+26.02.2022,Sassuolo v Fiorentina,2-1,1 - 0,"[88, 94]",88
+26.02.2022,Empoli v Juventus,2-3,1 - 2,"[66, 76]",66
+26.02.2022,Salernitana v Bologna,1-1,0 - 1,[72],72
+25.02.2022,Genoa v Inter,0-0,0 - 0,[],100
+25.02.2022,AC Milan v Udinese,1-1,1 - 0,[66],66
+21.02.2022,Bologna v Spezia,2-1,1 - 1,[84],84
+21.02.2022,Cagliari v Napoli,1-1,0 - 0,"[58, 87]",58
+20.02.2022,Udinese v Lazio,1-1,1 - 1,[],100
+20.02.2022,Inter v Sassuolo,0-2,0 - 2,[],100
+20.02.2022,Venezia v Genoa,1-1,1 - 1,[],100
+20.02.2022,Fiorentina v Atalanta,1-0,0 - 0,[56],56
+19.02.2022,Salernitana v AC Milan,2-2,1 - 1,"[72, 77]",72
+19.02.2022,AS Roma v Verona,2-2,0 - 2,"[65, 84]",65
+19.02.2022,Sampdoria v Empoli,2-0,2 - 0,[],100
+18.02.2022,Juventus v Torino,1-1,1 - 0,[62],62
+14.02.2022,Spezia v Fiorentina,1-2,0 - 1,"[74, 89]",74
+13.02.2022,Atalanta v Juventus,1-1,0 - 0,"[76, 92]",76
+13.02.2022,Sassuolo v AS Roma,2-2,0 - 1,"[47, 73, 94]",47
+13.02.2022,Empoli v Cagliari,1-1,1 - 0,[84],84
+13.02.2022,Genoa v Salernitana,1-1,1 - 1,[],100
+13.02.2022,Verona v Udinese,4-0,2 - 0,"[66, 85]",66
+13.02.2022,AC Milan v Sampdoria,1-0,1 - 0,[],100
+12.02.2022,Torino v Venezia,1-2,1 - 1,[46],46
+12.02.2022,Napoli v Inter,1-1,1 - 0,[47],47
+12.02.2022,Lazio v Bologna,3-0,1 - 0,"[53, 63]",53
+07.02.2022,Salernitana v Spezia,2-2,2 - 2,[],100
+06.02.2022,Juventus v Verona,2-0,1 - 0,[61],61
+06.02.2022,Udinese v Torino,2-0,0 - 0,"[93, 97]",93
+06.02.2022,Bologna v Empoli,0-0,0 - 0,[],100
+06.02.2022,Sampdoria v Sassuolo,4-0,2 - 0,"[63, 91]",63
+06.02.2022,Venezia v Napoli,0-2,0 - 0,"[59, 100]",59
+06.02.2022,Atalanta v Cagliari,1-2,0 - 0,"[50, 64, 68]",50
+05.02.2022,Fiorentina v Lazio,0-3,0 - 0,"[52, 70, 81]",52
+05.02.2022,Inter v AC Milan,1-2,1 - 0,"[75, 78]",75
+05.02.2022,AS Roma v Genoa,0-0,0 - 0,[],100
+23.01.2022,AC Milan v Juventus,0-0,0 - 0,[],100
+23.01.2022,Empoli v AS Roma,2-4,0 - 4,"[55, 72]",55
+23.01.2022,Napoli v Salernitana,4-1,2 - 1,"[47, 53]",47
+23.01.2022,Spezia v Sampdoria,1-0,0 - 0,[69],69
+23.01.2022,Torino v Sassuolo,1-1,1 - 0,[88],88
+23.01.2022,Cagliari v Fiorentina,1-1,0 - 0,"[47, 75]",47
+22.01.2022,Lazio v Atalanta,0-0,0 - 0,[],100
+22.01.2022,Inter v Venezia,2-1,1 - 1,[90],90
+22.01.2022,Genoa v Udinese,0-0,0 - 0,[],100
+21.01.2022,Verona v Bologna,2-1,1 - 1,[85],85
+17.01.2022,Fiorentina v Genoa,6-0,3 - 0,"[51, 69, 77]",51
+17.01.2022,AC Milan v Spezia,1-2,1 - 0,"[64, 96]",64
+17.01.2022,Bologna v Napoli,0-2,0 - 1,[47],47
+16.01.2022,Atalanta v Inter,0-0,0 - 0,[],100
+16.01.2022,AS Roma v Cagliari,1-0,1 - 0,[],100
+16.01.2022,Venezia v Empoli,1-1,0 - 1,[73],73
+16.01.2022,Sassuolo v Verona,2-4,0 - 2,"[54, 57, 67, 94]",54
+15.01.2022,Juventus v Udinese,2-0,1 - 0,[79],79
+15.01.2022,Salernitana v Lazio,0-3,0 - 2,[66],66
+15.01.2022,Sampdoria v Torino,1-2,1 - 1,[67],67
+11.01.2022,Cagliari v Bologna,2-1,0 - 0,"[54, 71, 93]",54
+10.01.2022,Torino v Fiorentina,4-0,3 - 0,[58],58
+09.01.2022,Inter v Lazio,2-1,1 - 1,[67],67
+09.01.2022,Verona v Salernitana,1-2,0 - 1,"[63, 70]",63
+09.01.2022,AS Roma v Juventus,3-4,1 - 1,"[48, 53, 70, 72, 77]",48
+09.01.2022,Genoa v Spezia,0-1,0 - 1,[],100
+09.01.2022,Napoli v Sampdoria,1-0,1 - 0,[],100
+09.01.2022,Udinese v Atalanta,2-6,0 - 3,"[59, 76, 88, 89, 92]",59
+09.01.2022,Empoli v Sassuolo,1-5,1 - 2,"[67, 71, 92]",67
+09.01.2022,Venezia v AC Milan,0-3,0 - 1,"[48, 59]",48
+06.01.2022,Juventus v Napoli,1-1,0 - 1,[54],54
+06.01.2022,AC Milan v AS Roma,3-1,2 - 1,[82],82
+06.01.2022,Sassuolo v Genoa,1-1,0 - 1,[55],55
+06.01.2022,Lazio v Empoli,3-3,1 - 2,"[66, 75, 93]",66
+06.01.2022,Spezia v Verona,1-2,0 - 0,"[59, 70, 85]",59
+06.01.2022,Sampdoria v Cagliari,1-2,1 - 0,"[55, 71]",55
+22.12.2021,Empoli v AC Milan,2-4,1 - 2,"[63, 69, 84]",63
+22.12.2021,Napoli v Spezia,0-1,0 - 1,[],100
+22.12.2021,AS Roma v Sampdoria,1-1,0 - 0,"[72, 80]",72
+22.12.2021,Inter v Torino,1-0,1 - 0,[],100
+22.12.2021,Verona v Fiorentina,1-1,1 - 0,[81],81
+22.12.2021,Sassuolo v Bologna,0-3,0 - 2,[94],94
+22.12.2021,Venezia v Lazio,1-3,1 - 1,"[48, 95]",48
+21.12.2021,Genoa v Atalanta,0-0,0 - 0,[],100
+21.12.2021,Juventus v Cagliari,2-0,1 - 0,[83],83
+19.12.2021,AC Milan v Napoli,0-1,0 - 1,[],100
+19.12.2021,Sampdoria v Venezia,1-1,1 - 0,[87],87
+19.12.2021,Torino v Verona,1-0,1 - 0,[],100
+19.12.2021,Spezia v Empoli,1-1,0 - 0,"[50, 71]",50
+19.12.2021,Fiorentina v Sassuolo,2-2,0 - 2,"[51, 61]",51
+18.12.2021,Cagliari v Udinese,0-4,0 - 2,"[50, 69]",50
+18.12.2021,Bologna v Juventus,0-2,0 - 1,[69],69
+18.12.2021,Atalanta v AS Roma,1-4,1 - 2,"[72, 82]",72
+17.12.2021,Salernitana v Inter,0-5,0 - 2,"[52, 77, 87]",52
+17.12.2021,Lazio v Genoa,3-1,1 - 0,"[75, 81, 86]",75
+13.12.2021,AS Roma v Spezia,2-0,1 - 0,[56],56
+12.12.2021,Inter v Cagliari,4-0,1 - 0,"[50, 66, 68]",50
+12.12.2021,Napoli v Empoli,0-1,0 - 0,[70],70
+12.12.2021,Sassuolo v Lazio,2-1,0 - 1,"[63, 69]",63
+12.12.2021,Verona v Atalanta,1-2,1 - 1,[62],62
+12.12.2021,Torino v Bologna,2-1,1 - 0,"[69, 79]",69
+11.12.2021,Udinese v AC Milan,1-1,1 - 0,[92],92
+11.12.2021,Venezia v Juventus,1-1,0 - 1,[55],55
+11.12.2021,Fiorentina v Salernitana,4-0,1 - 0,"[51, 84, 90]",51
+10.12.2021,Genoa v Sampdoria,1-3,0 - 1,"[49, 67, 78]",49
+06.12.2021,Cagliari v Torino,1-1,0 - 1,[53],53
+06.12.2021,Empoli v Udinese,3-1,0 - 1,"[49, 59, 78]",49
+05.12.2021,Juventus v Genoa,2-0,1 - 0,[82],82
+05.12.2021,Sampdoria v Lazio,1-3,0 - 3,[89],89
+05.12.2021,Spezia v Sassuolo,2-2,1 - 0,"[48, 66, 79]",48
+05.12.2021,Venezia v Verona,3-4,3 - 0,"[52, 65, 67, 85]",52
+05.12.2021,Bologna v Fiorentina,2-3,1 - 1,"[51, 67, 83]",51
+04.12.2021,Napoli v Atalanta,2-3,1 - 1,"[47, 66, 71]",47
+04.12.2021,AS Roma v Inter,0-3,0 - 3,[],100
+04.12.2021,AC Milan v Salernitana,2-0,2 - 0,[],100
+02.12.2021,Lazio v Udinese,4-4,1 - 3,"[51, 56, 79, 99]",51
+02.12.2021,Torino v Empoli,2-2,2 - 1,[72],72
+01.12.2021,Genoa v AC Milan,0-3,0 - 2,[61],61
+01.12.2021,Sassuolo v Napoli,2-2,0 - 0,"[51, 59, 71, 89]",51
+01.12.2021,Bologna v AS Roma,1-0,1 - 0,[],100
+01.12.2021,Inter v Spezia,2-0,1 - 0,[58],58
+30.11.2021,Salernitana v Juventus,0-2,0 - 1,[70],70
+30.11.2021,Verona v Cagliari,0-0,0 - 0,[],100
+30.11.2021,Atalanta v Venezia,4-0,2 - 0,"[57, 67]",57
+30.11.2021,Fiorentina v Sampdoria,3-1,3 - 1,[],100
+28.11.2021,Napoli v Lazio,4-0,3 - 0,[85],85
+28.11.2021,AS Roma v Torino,1-0,1 - 0,[],100
+28.11.2021,AC Milan v Sassuolo,1-3,1 - 2,[66],66
+28.11.2021,Spezia v Bologna,0-1,0 - 0,[83],83
+28.11.2021,Udinese v Genoa,0-0,0 - 0,[],100
+27.11.2021,Venezia v Inter,0-2,0 - 1,[96],96
+27.11.2021,Juventus v Atalanta,0-1,0 - 1,[],100
+27.11.2021,Empoli v Fiorentina,2-1,0 - 0,"[57, 87, 89]",57
+27.11.2021,Sampdoria v Verona,3-1,0 - 1,"[51, 77, 90]",51
+26.11.2021,Cagliari v Salernitana,1-1,0 - 0,"[73, 90]",73
+22.11.2021,Torino v Udinese,2-1,1 - 0,"[48, 77]",48
+22.11.2021,Verona v Empoli,2-1,0 - 0,"[49, 67, 91]",49
+21.11.2021,Genoa v AS Roma,0-2,0 - 0,"[82, 94]",82
+21.11.2021,Inter v Napoli,3-2,2 - 1,"[61, 79]",61
+21.11.2021,Bologna v Venezia,0-1,0 - 0,[61],61
+21.11.2021,Salernitana v Sampdoria,0-2,0 - 2,[],100
+21.11.2021,Sassuolo v Cagliari,2-2,1 - 1,"[52, 56]",52
+20.11.2021,Fiorentina v AC Milan,4-3,2 - 0,"[60, 62, 67, 85, 96]",60
+20.11.2021,Lazio v Juventus,0-2,0 - 1,[83],83
+20.11.2021,Atalanta v Spezia,5-2,3 - 1,"[83, 89, 91]",83
+07.11.2021,AC Milan v Inter,1-1,1 - 1,[],100
+07.11.2021,Lazio v Salernitana,3-0,2 - 0,[69],69
+07.11.2021,Napoli v Verona,1-1,1 - 1,[],100
+07.11.2021,Sampdoria v Bologna,1-2,0 - 0,"[47, 77, 78]",47
+07.11.2021,Udinese v Sassuolo,3-2,2 - 2,[51],51
+07.11.2021,Venezia v AS Roma,3-2,1 - 2,"[65, 74]",65
+06.11.2021,Cagliari v Atalanta,1-2,1 - 2,[],100
+06.11.2021,Juventus v Fiorentina,1-0,0 - 0,[91],91
+06.11.2021,Spezia v Torino,1-0,0 - 0,[58],58
+05.11.2021,Empoli v Genoa,2-2,0 - 1,"[62, 72, 89]",62
+01.11.2021,Bologna v Cagliari,2-0,0 - 0,"[49, 96]",49
+31.10.2021,AS Roma v AC Milan,1-2,0 - 1,"[57, 93]",57
+31.10.2021,Salernitana v Napoli,0-1,0 - 0,[61],61
+31.10.2021,Fiorentina v Spezia,3-0,1 - 0,"[62, 74]",62
+31.10.2021,Genoa v Venezia,0-0,0 - 0,[],100
+31.10.2021,Sassuolo v Empoli,1-2,1 - 0,"[83, 92]",83
+31.10.2021,Inter v Udinese,2-0,0 - 0,"[60, 68]",60
+30.10.2021,Torino v Sampdoria,3-0,1 - 0,"[52, 93]",52
+30.10.2021,Verona v Juventus,2-1,2 - 0,[80],80
+30.10.2021,Atalanta v Lazio,2-2,1 - 1,"[74, 94]",74
+28.10.2021,Napoli v Bologna,3-0,2 - 0,[62],62
+27.10.2021,Cagliari v AS Roma,1-2,0 - 0,"[52, 71, 78]",52
+27.10.2021,Empoli v Inter,0-2,0 - 1,[66],66
+27.10.2021,Lazio v Fiorentina,1-0,0 - 0,[52],52
+27.10.2021,Juventus v Sassuolo,1-2,0 - 1,"[76, 95]",76
+27.10.2021,Sampdoria v Atalanta,1-3,1 - 2,[95],95
+27.10.2021,Udinese v Verona,1-1,1 - 0,[83],83
+26.10.2021,AC Milan v Torino,1-0,1 - 0,[],100
+26.10.2021,Spezia v Genoa,1-1,0 - 0,"[66, 86]",66
+26.10.2021,Venezia v Salernitana,1-2,1 - 0,"[61, 95]",61
+24.10.2021,Inter v Juventus,1-1,1 - 0,[89],89
+24.10.2021,AS Roma v Napoli,0-0,0 - 0,[],100
+24.10.2021,Fiorentina v Cagliari,3-0,2 - 0,[49],49
+24.10.2021,Verona v Lazio,4-1,2 - 0,"[46, 62, 91]",46
+24.10.2021,Atalanta v Udinese,1-1,0 - 0,"[56, 93]",56
+23.10.2021,Bologna v AC Milan,2-4,0 - 2,"[49, 52, 84, 90]",49
+23.10.2021,Sassuolo v Venezia,3-1,1 - 1,"[50, 67]",50
+23.10.2021,Salernitana v Empoli,2-4,0 - 4,"[48, 55]",48
+22.10.2021,Sampdoria v Spezia,2-1,2 - 0,[95],95
+22.10.2021,Torino v Genoa,3-2,2 - 0,"[70, 77, 81]",70
+18.10.2021,Venezia v Fiorentina,1-0,1 - 0,[],100
+17.10.2021,Juventus v AS Roma,1-0,1 - 0,[],100
+17.10.2021,Napoli v Torino,1-0,0 - 0,[81],81
+17.10.2021,Empoli v Atalanta,1-4,1 - 2,"[49, 89]",49
+17.10.2021,Genoa v Sassuolo,2-2,1 - 2,[90],90
+17.10.2021,Udinese v Bologna,1-1,0 - 0,"[67, 83]",67
+17.10.2021,Cagliari v Sampdoria,3-1,1 - 0,"[74, 82, 94]",74
+16.10.2021,AC Milan v Verona,3-2,0 - 2,"[59, 76, 78]",59
+16.10.2021,Lazio v Inter,3-1,0 - 1,"[64, 81, 91]",64
+16.10.2021,Spezia v Salernitana,2-1,0 - 1,"[51, 76]",51
+03.10.2021,Atalanta v AC Milan,2-3,0 - 2,"[78, 86, 94]",78
+03.10.2021,AS Roma v Empoli,2-0,1 - 0,[48],48
+03.10.2021,Fiorentina v Napoli,1-2,1 - 1,[50],50
+03.10.2021,Sampdoria v Udinese,3-3,1 - 2,"[48, 69, 82]",48
+03.10.2021,Verona v Spezia,4-0,3 - 0,[71],71
+03.10.2021,Bologna v Lazio,3-0,2 - 0,[68],68
+02.10.2021,Sassuolo v Inter,1-2,1 - 0,"[58, 78]",58
+02.10.2021,Torino v Juventus,0-1,0 - 0,[86],86
+02.10.2021,Salernitana v Genoa,1-0,0 - 0,[66],66
+01.10.2021,Cagliari v Venezia,1-1,1 - 0,[92],92
+27.09.2021,Venezia v Torino,1-1,0 - 0,"[56, 78]",56
+26.09.2021,Napoli v Cagliari,2-0,1 - 0,[57],57
+26.09.2021,Lazio v AS Roma,3-2,2 - 1,"[63, 69]",63
+26.09.2021,Empoli v Bologna,4-2,2 - 1,"[54, 77, 90]",54
+26.09.2021,Sassuolo v Salernitana,1-0,0 - 0,[54],54
+26.09.2021,Udinese v Fiorentina,0-1,0 - 1,[],100
+26.09.2021,Juventus v Sampdoria,3-2,2 - 1,"[57, 83]",57
+25.09.2021,Genoa v Verona,3-3,0 - 1,"[49, 77, 80, 85, 91]",49
+25.09.2021,Inter v Atalanta,2-2,1 - 2,[71],71
+25.09.2021,Spezia v AC Milan,1-2,0 - 0,"[48, 80, 86]",48
+23.09.2021,AS Roma v Udinese,1-0,1 - 0,[],100
+23.09.2021,Sampdoria v Napoli,0-4,0 - 2,"[50, 59]",50
+23.09.2021,Torino v Lazio,1-1,0 - 0,"[76, 91]",76
+22.09.2021,AC Milan v Venezia,2-0,0 - 0,"[68, 82]",68
+22.09.2021,Cagliari v Empoli,0-2,0 - 1,[69],69
+22.09.2021,Salernitana v Verona,2-2,1 - 2,[76],76
+22.09.2021,Spezia v Juventus,2-3,1 - 1,"[49, 66, 72]",49
+21.09.2021,Atalanta v Sassuolo,2-1,2 - 1,[],100
+21.09.2021,Fiorentina v Inter,1-3,1 - 0,"[52, 55, 87]",52
+21.09.2021,Bologna v Genoa,2-2,0 - 0,"[49, 55, 85, 89]",49
+20.09.2021,Udinese v Napoli,0-4,0 - 2,"[52, 84]",52
+19.09.2021,Juventus v AC Milan,1-1,1 - 0,[76],76
+19.09.2021,Lazio v Cagliari,2-2,1 - 0,"[46, 62, 83]",46
+19.09.2021,Verona v AS Roma,3-2,0 - 1,"[49, 54, 58, 63]",49
+19.09.2021,Venezia v Spezia,1-2,0 - 1,"[59, 94]",59
+19.09.2021,Empoli v Sampdoria,0-3,0 - 1,"[52, 70]",52
+18.09.2021,Salernitana v Atalanta,0-1,0 - 0,[75],75
+18.09.2021,Inter v Bologna,6-1,3 - 0,"[54, 63, 68, 86]",54
+18.09.2021,Genoa v Fiorentina,1-2,0 - 0,"[60, 89, 98]",60
+17.09.2021,Sassuolo v Torino,0-1,0 - 0,[83],83
+13.09.2021,Bologna v Verona,1-0,0 - 0,[78],78
+12.09.2021,AS Roma v Sassuolo,2-1,1 - 0,"[57, 91]",57
+12.09.2021,AC Milan v Lazio,2-0,1 - 0,[67],67
+12.09.2021,Cagliari v Genoa,2-3,1 - 0,"[56, 59, 69, 78]",56
+12.09.2021,Spezia v Udinese,0-1,0 - 0,[89],89
+12.09.2021,Torino v Salernitana,4-0,1 - 0,"[65, 87, 91]",65
+12.09.2021,Sampdoria v Inter,2-2,1 - 2,[47],47
+11.09.2021,Atalanta v Fiorentina,1-2,0 - 1,"[49, 65]",49
+11.09.2021,Napoli v Juventus,2-1,0 - 1,"[57, 85]",57
+11.09.2021,Empoli v Venezia,1-2,0 - 1,"[68, 89]",68
+29.08.2021,AC Milan v Cagliari,4-1,4 - 1,[],100
+29.08.2021,Salernitana v AS Roma,0-4,0 - 0,"[48, 52, 69, 79]",48
+29.08.2021,Genoa v Napoli,1-2,0 - 1,"[69, 84]",69
+29.08.2021,Sassuolo v Sampdoria,0-0,0 - 0,[],100
+28.08.2021,Fiorentina v Torino,2-1,1 - 0,"[70, 89]",70
+28.08.2021,Juventus v Empoli,0-1,0 - 1,[],100
+28.08.2021,Atalanta v Bologna,0-0,0 - 0,[],100
+28.08.2021,Lazio v Spezia,6-1,3 - 1,"[47, 70, 85]",47
+27.08.2021,Verona v Inter,1-3,1 - 0,"[47, 83, 94]",47
+27.08.2021,Udinese v Venezia,3-0,1 - 0,"[70, 93]",70
+23.08.2021,Sampdoria v AC Milan,0-1,0 - 1,[],100
+23.08.2021,Cagliari v Spezia,2-2,0 - 1,"[58, 62, 66]",58
+22.08.2021,AS Roma v Fiorentina,3-1,1 - 0,"[60, 64, 79]",60
+22.08.2021,Napoli v Venezia,2-0,0 - 0,"[62, 73]",62
+22.08.2021,Bologna v Salernitana,3-2,0 - 0,"[52, 59, 70, 75, 77]",52
+22.08.2021,Udinese v Juventus,2-2,0 - 2,"[51, 83]",51
+21.08.2021,Empoli v Lazio,1-3,1 - 3,[],100
+21.08.2021,Torino v Atalanta,1-2,0 - 1,"[79, 93]",79
+21.08.2021,Inter v Genoa,4-0,2 - 0,"[74, 87]",74
+21.08.2021,Verona v Sassuolo,2-3,0 - 1,"[51, 71, 77, 90]",51

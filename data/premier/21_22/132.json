@@ -1,0 +1,110 @@
+{
+    "time": "24.02.2022 15:45",
+    "home": "Arsenal",
+    "away": "Wolverhampton",
+    "placar": "2-1",
+    "placarHafHome": "0",
+    "placarHafAway": "1",
+    "oddsHome": "1.61",
+    "oddsDraw": "3.60",
+    "oddsAway": "5.75",
+    "homeGols": [
+        "82'",
+        "90+5'"
+    ],
+    "awayGols": [
+        "10'"
+    ],
+    "allgols": [
+        "10'",
+        "82'",
+        "90+5'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "53%",
+            "away": "47%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "10",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "5",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "4",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "9",
+            "away": "9"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "3"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "262",
+            "away": "232"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "212",
+            "away": "181"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "4",
+            "away": "10"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "80",
+            "away": "34"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "34",
+            "away": "10"
+        }
+    ]
+}

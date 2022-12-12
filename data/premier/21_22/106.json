@@ -1,0 +1,114 @@
+{
+    "time": "12.03.2022 13:30",
+    "home": "Manchester Utd",
+    "away": "Tottenham",
+    "placar": "3-2",
+    "placarHafHome": "2",
+    "placarHafAway": "1",
+    "oddsHome": "2.25",
+    "oddsDraw": "3.50",
+    "oddsAway": "3.10",
+    "homeGols": [
+        "12'",
+        "38'",
+        "81'"
+    ],
+    "awayGols": [
+        "35'",
+        "72'"
+    ],
+    "allgols": [
+        "12'",
+        "35'",
+        "38'",
+        "72'",
+        "81'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "45%",
+            "away": "55%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "9"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "5"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "5",
+            "away": "2"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "1",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "6",
+            "away": "5"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "4",
+            "away": "3"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "250",
+            "away": "303"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "225",
+            "away": "276"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "8"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "51",
+            "away": "51"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "10",
+            "away": "36"
+        }
+    ]
+}

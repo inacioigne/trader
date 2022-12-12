@@ -1,0 +1,381 @@
+data,events,placarFull,placarHafTime,golsHalfTime,timesgol
+22.05.2022,Arsenal v Everton,5-1,2-1,"[56, 59, 82]",56
+22.05.2022,Brentford v Leeds,1-2,0-0,"[56, 78, 94]",56
+22.05.2022,Brighton v West Ham,3-1,0-1,"[50, 80, 92]",50
+22.05.2022,Burnley v Newcastle,1-2,0-1,"[60, 69]",60
+22.05.2022,Chelsea v Watford,2-1,1-0,"[87, 91]",87
+22.05.2022,Crystal Palace v Manchester Utd,1-0,1-0,[],100
+22.05.2022,Leicester v Southampton,4-1,0-0,"[49, 74, 79, 81, 96]",49
+22.05.2022,Liverpool v Wolverhampton,3-1,1-1,"[84, 89]",84
+22.05.2022,Manchester City v Aston Villa,3-2,0-1,"[69, 76, 78, 81]",69
+22.05.2022,Norwich v Tottenham,0-5,0-2,"[64, 70, 75]",64
+19.05.2022,Aston Villa v Burnley,1-1,0-1,[48],48
+19.05.2022,Chelsea v Leicester,1-1,1-1,[],100
+19.05.2022,Everton v Crystal Palace,3-2,0-2,"[54, 75, 85]",54
+17.05.2022,Southampton v Liverpool,1-2,1-1,[67],67
+16.05.2022,Newcastle v Arsenal,2-0,0-0,"[55, 85]",55
+15.05.2022,Everton v Brentford,2-3,2-1,"[62, 64]",62
+15.05.2022,Aston Villa v Crystal Palace,1-1,0-0,"[69, 81]",69
+15.05.2022,Leeds v Brighton,1-1,0-1,[92],92
+15.05.2022,Watford v Leicester,1-5,1-2,"[46, 70, 86]",46
+15.05.2022,West Ham v Manchester City,2-2,2-0,"[49, 69]",49
+15.05.2022,Wolverhampton v Norwich,1-1,0-1,[55],55
+15.05.2022,Tottenham v Burnley,1-0,1-0,[],100
+12.05.2022,Tottenham v Arsenal,3-0,2-0,[47],47
+11.05.2022,Wolverhampton v Manchester City,1-5,1-3,"[60, 84]",60
+11.05.2022,Leicester v Norwich,3-0,0-0,"[54, 62, 70]",54
+11.05.2022,Watford v Everton,0-0,0-0,[],100
+11.05.2022,Leeds v Chelsea,0-3,0-1,"[55, 83]",55
+10.05.2022,Aston Villa v Liverpool,1-2,1-1,[65],65
+08.05.2022,Manchester City v Newcastle,5-0,2-0,"[61, 90, 93]",61
+08.05.2022,Arsenal v Leeds,2-1,2-0,[66],66
+08.05.2022,Leicester v Everton,1-2,1-2,[],100
+08.05.2022,Norwich v West Ham,0-4,0-3,[65],65
+07.05.2022,Liverpool v Tottenham,1-1,0-0,"[56, 74]",56
+07.05.2022,Brighton v Manchester Utd,4-0,1-0,"[49, 57, 60]",49
+07.05.2022,Brentford v Southampton,3-0,2-0,[79],79
+07.05.2022,Burnley v Aston Villa,1-3,0-2,"[52, 91]",52
+07.05.2022,Chelsea v Wolverhampton,2-2,0-0,"[56, 58, 79, 97]",56
+07.05.2022,Crystal Palace v Watford,1-0,1-0,[],100
+02.05.2022,Manchester Utd v Brentford,3-0,1-0,"[61, 72]",61
+01.05.2022,West Ham v Arsenal,1-2,1-1,[54],54
+01.05.2022,Everton v Chelsea,1-0,0-0,[46],46
+01.05.2022,Tottenham v Leicester,3-1,1-0,"[60, 79, 91]",60
+30.04.2022,Leeds v Manchester City,0-4,0-1,"[54, 78, 93]",54
+30.04.2022,Aston Villa v Norwich,2-0,1-0,[93],93
+30.04.2022,Southampton v Crystal Palace,1-2,1-0,"[60, 92]",60
+30.04.2022,Watford v Burnley,1-2,1-0,"[83, 86]",83
+30.04.2022,Wolverhampton v Brighton,0-3,0-1,"[70, 86]",70
+30.04.2022,Newcastle v Liverpool,0-1,0-1,[],100
+28.04.2022,Manchester Utd v Chelsea,1-1,0-0,"[60, 62]",60
+25.04.2022,Crystal Palace v Leeds,0-0,0-0,[],100
+24.04.2022,Liverpool v Everton,2-0,0-0,"[62, 85]",62
+24.04.2022,Brighton v Southampton,2-2,2-1,[54],54
+24.04.2022,Burnley v Wolverhampton,1-0,0-0,[62],62
+24.04.2022,Chelsea v West Ham,1-0,0-0,[90],90
+23.04.2022,Brentford v Tottenham,0-0,0-0,[],100
+23.04.2022,Leicester v Aston Villa,0-0,0-0,[],100
+23.04.2022,Manchester City v Watford,5-1,3-1,"[49, 53]",49
+23.04.2022,Norwich v Newcastle,0-3,0-2,[49],49
+23.04.2022,Arsenal v Manchester Utd,3-1,2-1,[70],70
+21.04.2022,Burnley v Southampton,2-0,2-0,[],100
+20.04.2022,Manchester City v Brighton,3-0,0-0,"[53, 65, 82]",53
+20.04.2022,Chelsea v Arsenal,2-4,2-2,"[57, 92]",57
+20.04.2022,Everton v Leicester,1-1,0-1,[92],92
+20.04.2022,Newcastle v Crystal Palace,1-0,1-0,[],100
+19.04.2022,Liverpool v Manchester Utd,4-0,2-0,"[68, 85]",68
+17.04.2022,Newcastle v Leicester,2-1,1-1,[95],95
+17.04.2022,West Ham v Burnley,1-1,0-1,[74],74
+16.04.2022,Manchester Utd v Norwich,3-2,2-1,"[52, 76]",52
+16.04.2022,Southampton v Arsenal,1-0,1-0,[],100
+16.04.2022,Watford v Brentford,1-2,0-1,"[55, 95]",55
+16.04.2022,Tottenham v Brighton,0-1,0-0,[90],90
+10.04.2022,Manchester City v Liverpool,2-2,2-1,[46],46
+10.04.2022,Brentford v West Ham,2-0,0-0,"[48, 64]",48
+10.04.2022,Leicester v Crystal Palace,2-1,2-0,[65],65
+10.04.2022,Norwich v Burnley,2-0,1-0,[86],86
+09.04.2022,Aston Villa v Tottenham,0-4,0-1,"[50, 66, 71]",50
+09.04.2022,Arsenal v Brighton,1-2,0-1,"[66, 89]",66
+09.04.2022,Southampton v Chelsea,0-6,0-4,"[49, 54]",49
+09.04.2022,Watford v Leeds,0-3,0-1,"[73, 85]",73
+09.04.2022,Everton v Manchester Utd,1-0,1-0,[],100
+08.04.2022,Newcastle v Wolverhampton,1-0,0-0,[72],72
+06.04.2022,Burnley v Everton,3-2,1-2,"[57, 85]",57
+04.04.2022,Crystal Palace v Arsenal,3-0,2-0,[74],74
+03.04.2022,Tottenham v Newcastle,5-1,1-1,"[48, 54, 63, 83]",48
+03.04.2022,West Ham v Everton,2-1,1-0,"[53, 58]",53
+02.04.2022,Manchester Utd v Leicester,1-1,0-0,"[63, 66]",63
+02.04.2022,Brighton v Norwich,0-0,0-0,[],100
+02.04.2022,Burnley v Manchester City,0-2,0-2,[],100
+02.04.2022,Chelsea v Brentford,1-4,0-0,"[48, 50, 54, 60, 87]",48
+02.04.2022,Leeds v Southampton,1-1,1-0,[49],49
+02.04.2022,Wolverhampton v Aston Villa,2-1,2-0,[86],86
+02.04.2022,Liverpool v Watford,2-0,1-0,[89],89
+20.03.2022,Tottenham v West Ham,3-1,2-1,[88],88
+20.03.2022,Leicester v Brentford,2-1,2-0,[85],85
+19.03.2022,Aston Villa v Arsenal,0-1,0-1,[],100
+18.03.2022,Wolverhampton v Leeds,2-3,2-0,"[63, 66, 91]",63
+17.03.2022,Everton v Newcastle,1-0,0-0,[99],99
+16.03.2022,Arsenal v Liverpool,0-2,0-0,"[54, 62]",54
+16.03.2022,Brighton v Tottenham,0-2,0-1,[57],57
+14.03.2022,Crystal Palace v Manchester City,0-0,0-0,[],100
+13.03.2022,Arsenal v Leicester,2-0,1-0,[59],59
+13.03.2022,Chelsea v Newcastle,1-0,0-0,[89],89
+13.03.2022,Everton v Wolverhampton,0-1,0-0,[49],49
+13.03.2022,Leeds v Norwich,2-1,1-0,"[91, 94]",91
+13.03.2022,Southampton v Watford,1-2,1-2,[],100
+13.03.2022,West Ham v Aston Villa,2-1,0-0,"[70, 82, 90]",70
+12.03.2022,Manchester Utd v Tottenham,3-2,2-1,"[72, 81]",72
+12.03.2022,Brentford v Burnley,2-0,0-0,"[85, 94]",85
+12.03.2022,Brighton v Liverpool,0-2,0-1,[61],61
+10.03.2022,Leeds v Aston Villa,0-3,0-1,"[65, 73]",65
+10.03.2022,Norwich v Chelsea,1-3,0-2,"[69, 90]",69
+10.03.2022,Southampton v Newcastle,1-2,1-1,[52],52
+10.03.2022,Wolverhampton v Watford,4-0,3-0,[85],85
+07.03.2022,Tottenham v Everton,5-0,3-0,"[46, 55]",46
+06.03.2022,Manchester City v Manchester Utd,4-1,2-1,"[68, 91]",68
+06.03.2022,Watford v Arsenal,2-3,1-2,"[52, 87]",52
+05.03.2022,Liverpool v West Ham,1-0,1-0,[],100
+05.03.2022,Aston Villa v Southampton,4-0,2-0,"[52, 54]",52
+05.03.2022,Burnley v Chelsea,0-4,0-0,"[47, 52, 55, 69]",47
+05.03.2022,Newcastle v Brighton,2-1,2-0,[55],55
+05.03.2022,Norwich v Brentford,1-3,0-1,"[52, 58, 92]",52
+05.03.2022,Wolverhampton v Crystal Palace,0-2,0-2,[],100
+05.03.2022,Leicester v Leeds,1-0,0-0,[67],67
+01.03.2022,Burnley v Leicester,0-2,0-0,"[82, 90]",82
+27.02.2022,West Ham v Wolverhampton,1-0,0-0,[59],59
+26.02.2022,Everton v Manchester City,0-1,0-0,[82],82
+26.02.2022,Brighton v Aston Villa,0-2,0-1,[68],68
+26.02.2022,Brentford v Newcastle,0-2,0-2,[],100
+26.02.2022,Crystal Palace v Burnley,1-1,1-0,[46],46
+26.02.2022,Manchester Utd v Watford,0-0,0-0,[],100
+26.02.2022,Leeds v Tottenham,0-4,0-3,[85],85
+25.02.2022,Southampton v Norwich,2-0,1-0,[88],88
+24.02.2022,Arsenal v Wolverhampton,2-1,0-1,"[82, 95]",82
+23.02.2022,Liverpool v Leeds,6-0,3-0,"[80, 90, 93]",80
+23.02.2022,Burnley v Tottenham,1-0,0-0,[71],71
+23.02.2022,Watford v Crystal Palace,1-4,1-2,"[85, 90]",85
+20.02.2022,Wolverhampton v Leicester,2-1,1-1,[66],66
+20.02.2022,Leeds v Manchester Utd,2-4,0-2,"[53, 54, 70, 88]",53
+19.02.2022,Manchester City v Tottenham,2-3,1-1,"[59, 92, 95]",59
+19.02.2022,Arsenal v Brentford,2-1,0-0,"[48, 79, 93]",48
+19.02.2022,Aston Villa v Watford,0-1,0-0,[78],78
+19.02.2022,Brighton v Burnley,0-3,0-2,[69],69
+19.02.2022,Crystal Palace v Chelsea,0-1,0-0,[89],89
+19.02.2022,Liverpool v Norwich,3-1,0-0,"[48, 64, 67, 81]",48
+19.02.2022,Southampton v Everton,2-0,0-0,"[52, 84]",52
+19.02.2022,West Ham v Newcastle,1-1,1-1,[],100
+15.02.2022,Manchester Utd v Brighton,2-0,0-0,"[51, 97]",51
+13.02.2022,Leicester v West Ham,2-2,1-1,"[57, 91]",57
+13.02.2022,Burnley v Liverpool,0-1,0-1,[],100
+13.02.2022,Newcastle v Aston Villa,1-0,1-0,[],100
+13.02.2022,Tottenham v Wolverhampton,0-2,0-2,[],100
+12.02.2022,Norwich v Manchester City,0-4,0-1,"[48, 70, 90]",48
+12.02.2022,Brentford v Crystal Palace,0-0,0-0,[],100
+12.02.2022,Everton v Leeds,3-0,2-0,[78],78
+12.02.2022,Watford v Brighton,0-2,0-1,[82],82
+12.02.2022,Manchester Utd v Southampton,1-1,1-0,[48],48
+10.02.2022,Liverpool v Leicester,2-0,1-0,[87],87
+10.02.2022,Wolverhampton v Arsenal,0-1,0-1,[],100
+09.02.2022,Aston Villa v Leeds,3-3,3-2,[63],63
+09.02.2022,Manchester City v Brentford,2-0,1-0,[69],69
+09.02.2022,Norwich v Crystal Palace,1-1,1-0,[60],60
+09.02.2022,Tottenham v Southampton,2-3,1-1,"[70, 79, 82]",70
+08.02.2022,Burnley v Manchester Utd,1-1,0-1,[47],47
+08.02.2022,Newcastle v Everton,3-1,1-1,"[56, 80]",56
+08.02.2022,West Ham v Watford,1-0,0-0,[68],68
+05.02.2022,Burnley v Watford,0-0,0-0,[],100
+23.01.2022,Chelsea v Tottenham,2-0,0-0,"[47, 55]",47
+23.01.2022,Arsenal v Burnley,0-0,0-0,[],100
+23.01.2022,Crystal Palace v Liverpool,1-3,0-2,"[55, 89]",55
+23.01.2022,Leicester v Brighton,1-1,0-0,"[46, 82]",46
+22.01.2022,Southampton v Manchester City,1-1,1-0,[65],65
+22.01.2022,Brentford v Wolverhampton,1-2,0-0,"[48, 71, 78]",48
+22.01.2022,Leeds v Newcastle,0-1,0-0,[75],75
+22.01.2022,Manchester Utd v West Ham,1-0,0-0,[93],93
+22.01.2022,Everton v Aston Villa,0-1,0-1,[],100
+21.01.2022,Watford v Norwich,0-3,0-0,"[51, 74, 92]",51
+19.01.2022,Brentford v Manchester Utd,1-3,0-0,"[55, 62, 77, 85]",55
+19.01.2022,Leicester v Tottenham,2-3,1-1,"[76, 95, 97]",76
+18.01.2022,Brighton v Chelsea,1-1,0-1,[60],60
+16.01.2022,Liverpool v Brentford,3-0,1-0,"[69, 77]",69
+16.01.2022,West Ham v Leeds,2-3,1-2,"[52, 60]",52
+15.01.2022,Aston Villa v Manchester Utd,2-2,0-1,"[67, 77, 81]",67
+15.01.2022,Newcastle v Watford,1-1,0-0,"[49, 88]",49
+15.01.2022,Norwich v Everton,2-1,2-0,[60],60
+15.01.2022,Wolverhampton v Southampton,3-1,1-0,"[59, 84, 91]",59
+15.01.2022,Manchester City v Chelsea,1-0,0-0,[70],70
+14.01.2022,Brighton v Crystal Palace,1-1,0-0,"[69, 87]",69
+12.01.2022,West Ham v Norwich,2-0,1-0,[83],83
+11.01.2022,Southampton v Brentford,4-1,2-1,"[49, 70]",49
+03.01.2022,Manchester Utd v Wolverhampton,0-1,0-0,[82],82
+02.01.2022,Chelsea v Liverpool,2-2,2-2,[],100
+02.01.2022,Brentford v Aston Villa,2-1,1-1,[83],83
+02.01.2022,Everton v Brighton,2-3,0-2,"[53, 71, 76]",53
+02.01.2022,Leeds v Burnley,3-1,1-0,"[54, 77, 92]",54
+01.01.2022,Crystal Palace v West Ham,2-3,0-3,"[83, 90]",83
+01.01.2022,Watford v Tottenham,0-1,0-0,[96],96
+01.01.2022,Arsenal v Manchester City,1-2,1-0,"[57, 93]",57
+30.12.2021,Manchester Utd v Burnley,3-1,3-1,[],100
+29.12.2021,Brentford v Manchester City,0-1,0-1,[],100
+29.12.2021,Chelsea v Brighton,1-1,1-0,[91],91
+28.12.2021,Leicester v Liverpool,1-0,0-0,[59],59
+28.12.2021,Crystal Palace v Norwich,3-0,3-0,[],100
+28.12.2021,Southampton v Tottenham,1-1,1-1,[],100
+28.12.2021,Watford v West Ham,1-4,1-2,"[58, 92]",58
+27.12.2021,Newcastle v Manchester Utd,1-1,1-0,[71],71
+26.12.2021,Brighton v Brentford,2-0,2-0,[],100
+26.12.2021,Aston Villa v Chelsea,1-3,1-1,"[56, 93]",56
+26.12.2021,Manchester City v Leicester,6-3,4-0,"[55, 59, 65, 69, 87]",55
+26.12.2021,Norwich v Arsenal,0-5,0-2,"[67, 84, 91]",67
+26.12.2021,Tottenham v Crystal Palace,3-0,2-0,[74],74
+26.12.2021,West Ham v Southampton,2-3,0-1,"[49, 61, 64, 70]",49
+19.12.2021,Tottenham v Liverpool,2-2,1-1,"[69, 74]",69
+19.12.2021,Newcastle v Manchester City,0-4,0-2,"[63, 86]",63
+19.12.2021,Wolverhampton v Chelsea,0-0,0-0,[],100
+18.12.2021,Leeds v Arsenal,1-4,0-3,"[75, 84]",75
+16.12.2021,Liverpool v Newcastle,3-1,2-1,[87],87
+16.12.2021,Chelsea v Everton,1-1,0-0,"[70, 74]",70
+15.12.2021,Arsenal v West Ham,2-0,0-0,"[48, 87]",48
+15.12.2021,Brighton v Wolverhampton,0-1,0-1,[],100
+15.12.2021,Crystal Palace v Southampton,2-2,1-2,[65],65
+14.12.2021,Manchester City v Leeds,7-0,3-0,"[49, 62, 74, 78]",49
+14.12.2021,Norwich v Aston Villa,0-2,0-1,[87],87
+12.12.2021,Crystal Palace v Everton,3-1,1-0,"[62, 70, 93]",62
+12.12.2021,Burnley v West Ham,0-0,0-0,[],100
+12.12.2021,Leicester v Newcastle,4-0,1-0,"[57, 81, 85]",57
+11.12.2021,Norwich v Manchester Utd,0-1,0-0,[75],75
+11.12.2021,Arsenal v Southampton,3-0,2-0,[62],62
+11.12.2021,Chelsea v Leeds,3-2,1-1,"[58, 83, 94]",58
+11.12.2021,Liverpool v Aston Villa,1-0,0-0,[67],67
+11.12.2021,Manchester City v Wolverhampton,1-0,0-0,[66],66
+10.12.2021,Brentford v Watford,2-1,0-1,"[84, 96]",84
+06.12.2021,Everton v Arsenal,2-1,0-1,"[79, 92]",79
+05.12.2021,Aston Villa v Leicester,2-1,1-1,[54],54
+05.12.2021,Leeds v Brentford,2-2,1-0,"[54, 61, 95]",54
+05.12.2021,Manchester Utd v Crystal Palace,1-0,0-0,[77],77
+05.12.2021,Tottenham v Norwich,3-0,1-0,"[67, 77]",67
+04.12.2021,Watford v Manchester City,1-3,0-2,"[63, 74]",63
+04.12.2021,Newcastle v Burnley,1-0,1-0,[],100
+04.12.2021,Southampton v Brighton,1-1,1-0,[98],98
+04.12.2021,Wolverhampton v Liverpool,0-1,0-0,[94],94
+04.12.2021,West Ham v Chelsea,3-2,1-2,"[56, 87]",56
+02.12.2021,Manchester Utd v Arsenal,3-2,1-1,"[52, 54, 70]",52
+02.12.2021,Tottenham v Brentford,2-0,1-0,[65],65
+01.12.2021,Aston Villa v Manchester City,1-2,0-2,[47],47
+01.12.2021,Everton v Liverpool,1-4,1-2,"[64, 79]",64
+01.12.2021,Southampton v Leicester,2-2,2-1,[49],49
+01.12.2021,Watford v Chelsea,1-2,1-1,[72],72
+01.12.2021,West Ham v Brighton,1-1,1-0,[89],89
+01.12.2021,Wolverhampton v Burnley,0-0,0-0,[],100
+30.11.2021,Leeds v Crystal Palace,1-0,0-0,[93],93
+30.11.2021,Newcastle v Norwich,1-1,0-0,"[61, 79]",61
+28.11.2021,Chelsea v Manchester Utd,1-1,0-0,"[50, 69]",50
+28.11.2021,Brentford v Everton,1-0,1-0,[],100
+28.11.2021,Leicester v Watford,4-2,3-1,"[61, 68]",61
+28.11.2021,Manchester City v West Ham,2-1,1-0,"[90, 94]",90
+27.11.2021,Brighton v Leeds,0-0,0-0,[],100
+27.11.2021,Crystal Palace v Aston Villa,1-2,0-1,"[86, 95]",86
+27.11.2021,Liverpool v Southampton,4-0,3-0,[52],52
+27.11.2021,Norwich v Wolverhampton,0-0,0-0,[],100
+27.11.2021,Arsenal v Newcastle,2-0,0-0,"[56, 66]",56
+21.11.2021,Tottenham v Leeds,2-1,0-1,"[58, 69]",58
+21.11.2021,Manchester City v Everton,3-0,1-0,"[55, 86]",55
+20.11.2021,Liverpool v Arsenal,4-0,1-0,"[52, 73, 77]",52
+20.11.2021,Aston Villa v Brighton,2-0,0-0,"[84, 89]",84
+20.11.2021,Burnley v Crystal Palace,3-3,2-3,[49],49
+20.11.2021,Newcastle v Brentford,3-3,2-2,"[61, 75]",61
+20.11.2021,Norwich v Southampton,2-1,1-1,[79],79
+20.11.2021,Watford v Manchester Utd,4-1,2-0,"[50, 92, 96]",50
+20.11.2021,Wolverhampton v West Ham,1-0,0-0,[58],58
+20.11.2021,Leicester v Chelsea,0-3,0-2,[71],71
+07.11.2021,West Ham v Liverpool,3-2,1-1,"[67, 74, 83]",67
+07.11.2021,Arsenal v Watford,1-0,0-0,[56],56
+07.11.2021,Everton v Tottenham,0-0,0-0,[],100
+07.11.2021,Leeds v Leicester,1-1,1-1,[],100
+06.11.2021,Brighton v Newcastle,1-1,1-0,[66],66
+06.11.2021,Brentford v Norwich,1-2,0-2,[60],60
+06.11.2021,Chelsea v Burnley,1-1,1-0,[79],79
+06.11.2021,Crystal Palace v Wolverhampton,2-0,0-0,"[61, 78]",61
+06.11.2021,Manchester Utd v Manchester City,0-2,0-2,[],100
+05.11.2021,Southampton v Aston Villa,1-0,1-0,[],100
+01.11.2021,Wolverhampton v Everton,2-1,2-0,[66],66
+31.10.2021,Aston Villa v West Ham,1-4,1-2,"[80, 84]",80
+31.10.2021,Norwich v Leeds,1-2,0-0,"[56, 58, 60]",56
+30.10.2021,Tottenham v Manchester Utd,0-3,0-1,"[64, 86]",64
+30.10.2021,Burnley v Brentford,3-1,3-0,[79],79
+30.10.2021,Liverpool v Brighton,2-2,2-1,[65],65
+30.10.2021,Manchester City v Crystal Palace,0-2,0-1,[88],88
+30.10.2021,Newcastle v Chelsea,0-3,0-0,"[65, 77, 81]",65
+30.10.2021,Watford v Southampton,0-1,0-1,[],100
+30.10.2021,Leicester v Arsenal,0-2,0-2,[],100
+24.10.2021,Manchester Utd v Liverpool,0-5,0-4,[50],50
+24.10.2021,Brentford v Leicester,1-2,0-1,"[60, 74]",60
+24.10.2021,West Ham v Tottenham,1-0,0-0,[72],72
+23.10.2021,Brighton v Manchester City,1-4,0-3,"[81, 95]",81
+23.10.2021,Crystal Palace v Newcastle,1-1,0-0,"[56, 65]",56
+23.10.2021,Everton v Watford,2-5,1-1,"[63, 78, 80, 86, 91]",63
+23.10.2021,Leeds v Wolverhampton,1-1,0-1,[94],94
+23.10.2021,Southampton v Burnley,2-2,1-1,"[50, 57]",50
+23.10.2021,Chelsea v Norwich,7-0,3-0,"[57, 62, 85, 91]",57
+22.10.2021,Arsenal v Aston Villa,3-1,2-0,"[56, 82]",56
+18.10.2021,Arsenal v Crystal Palace,2-2,1-0,"[50, 73, 95]",50
+17.10.2021,Newcastle v Tottenham,2-3,1-3,[89],89
+17.10.2021,Everton v West Ham,0-1,0-0,[74],74
+16.10.2021,Brentford v Chelsea,0-1,0-1,[],100
+16.10.2021,Aston Villa v Wolverhampton,2-3,0-0,"[48, 68, 80, 85, 95]",48
+16.10.2021,Leicester v Manchester Utd,4-2,1-1,"[78, 82, 83, 91]",78
+16.10.2021,Manchester City v Burnley,2-0,1-0,[70],70
+16.10.2021,Norwich v Brighton,0-0,0-0,[],100
+16.10.2021,Southampton v Leeds,1-0,0-0,[53],53
+16.10.2021,Watford v Liverpool,0-5,0-2,"[52, 54, 91]",52
+03.10.2021,Liverpool v Manchester City,2-2,0-0,"[59, 69, 76, 81]",59
+03.10.2021,Crystal Palace v Leicester,2-2,0-2,"[61, 72]",61
+03.10.2021,Tottenham v Aston Villa,2-1,1-0,"[67, 71]",67
+03.10.2021,West Ham v Brentford,1-2,0-1,"[80, 94]",80
+02.10.2021,Brighton v Arsenal,0-0,0-0,[],100
+02.10.2021,Burnley v Norwich,0-0,0-0,[],100
+02.10.2021,Chelsea v Southampton,3-1,1-0,"[61, 84, 89]",61
+02.10.2021,Leeds v Watford,1-0,1-0,[],100
+02.10.2021,Wolverhampton v Newcastle,2-1,1-1,[58],58
+02.10.2021,Manchester Utd v Everton,1-1,1-0,[65],65
+27.09.2021,Crystal Palace v Brighton,1-1,1-0,[95],95
+26.09.2021,Arsenal v Tottenham,3-1,3-0,[79],79
+26.09.2021,Southampton v Wolverhampton,0-1,0-0,[61],61
+25.09.2021,Brentford v Liverpool,3-3,1-1,"[54, 63, 67, 82]",54
+25.09.2021,Everton v Norwich,2-0,1-0,[77],77
+25.09.2021,Leeds v West Ham,1-2,1-0,"[67, 90]",67
+25.09.2021,Leicester v Burnley,2-2,1-2,[85],85
+25.09.2021,Watford v Newcastle,1-1,0-1,[72],72
+25.09.2021,Chelsea v Manchester City,0-1,0-0,[53],53
+25.09.2021,Manchester Utd v Aston Villa,0-1,0-0,[88],88
+19.09.2021,Tottenham v Chelsea,0-3,0-0,"[49, 57, 92]",49
+19.09.2021,Brighton v Leicester,2-1,1-0,"[50, 61]",50
+19.09.2021,West Ham v Manchester Utd,1-2,1-1,[89],89
+18.09.2021,Aston Villa v Everton,3-0,0-0,"[66, 69, 75]",66
+18.09.2021,Burnley v Arsenal,0-1,0-1,[],100
+18.09.2021,Liverpool v Crystal Palace,3-0,1-0,"[78, 89]",78
+18.09.2021,Manchester City v Southampton,0-0,0-0,[],100
+18.09.2021,Norwich v Watford,1-3,1-1,"[63, 80]",63
+18.09.2021,Wolverhampton v Brentford,0-2,0-2,[],100
+17.09.2021,Newcastle v Leeds,1-1,1-1,[],100
+13.09.2021,Everton v Burnley,3-1,0-0,"[53, 60, 65, 66]",53
+12.09.2021,Leeds v Liverpool,0-3,0-1,"[50, 92]",50
+11.09.2021,Chelsea v Aston Villa,3-0,1-0,"[49, 93]",49
+11.09.2021,Arsenal v Norwich,1-0,0-0,[66],66
+11.09.2021,Brentford v Brighton,0-1,0-0,[90],90
+11.09.2021,Leicester v Manchester City,0-1,0-0,[62],62
+11.09.2021,Manchester Utd v Newcastle,4-1,1-0,"[56, 62, 80, 92]",56
+11.09.2021,Southampton v West Ham,0-0,0-0,[],100
+11.09.2021,Watford v Wolverhampton,0-2,0-0,"[74, 83]",74
+11.09.2021,Crystal Palace v Tottenham,3-0,0-0,"[76, 84, 93]",76
+29.08.2021,Wolverhampton v Manchester Utd,0-1,0-0,[80],80
+29.08.2021,Burnley v Leeds,1-1,0-0,"[61, 86]",61
+29.08.2021,Tottenham v Watford,1-0,1-0,[],100
+28.08.2021,Liverpool v Chelsea,1-1,1-1,[],100
+28.08.2021,Aston Villa v Brentford,1-1,1-1,[],100
+28.08.2021,Brighton v Everton,0-2,0-1,[58],58
+28.08.2021,Newcastle v Southampton,2-2,0-0,"[55, 74, 91, 96]",55
+28.08.2021,Norwich v Leicester,1-2,1-1,[76],76
+28.08.2021,West Ham v Crystal Palace,2-2,1-0,"[58, 68, 70]",58
+28.08.2021,Manchester City v Arsenal,5-0,3-0,"[53, 84]",53
+23.08.2021,West Ham v Leicester,4-1,1-0,"[56, 69, 80, 84]",56
+22.08.2021,Arsenal v Chelsea,0-2,0-2,[],100
+22.08.2021,Southampton v Manchester Utd,1-1,1-0,[55],55
+22.08.2021,Wolverhampton v Tottenham,0-1,0-1,[],100
+21.08.2021,Brighton v Watford,2-0,2-0,[],100
+21.08.2021,Aston Villa v Newcastle,2-0,1-0,[62],62
+21.08.2021,Crystal Palace v Brentford,0-0,0-0,[],100
+21.08.2021,Leeds v Everton,2-2,1-1,"[50, 72]",50
+21.08.2021,Manchester City v Norwich,5-0,2-0,"[64, 71, 84]",64
+21.08.2021,Liverpool v Burnley,2-0,1-0,[69],69
+15.08.2021,Tottenham v Manchester City,1-0,0-0,[55],55
+15.08.2021,Newcastle v West Ham,2-4,2-1,"[53, 63, 66]",53
+14.08.2021,Norwich v Liverpool,0-3,0-1,"[65, 74]",65
+14.08.2021,Burnley v Brighton,1-2,1-0,"[73, 78]",73
+14.08.2021,Chelsea v Crystal Palace,3-0,2-0,[58],58
+14.08.2021,Everton v Southampton,3-1,0-1,"[47, 76, 81]",47
+14.08.2021,Leicester v Wolverhampton,1-0,1-0,[],100
+14.08.2021,Watford v Aston Villa,3-2,2-0,"[67, 70, 97]",67
+14.08.2021,Manchester Utd v Leeds,5-1,1-0,"[49, 52, 54, 60, 68]",49
+13.08.2021,Brentford v Arsenal,2-0,1-0,[73],73

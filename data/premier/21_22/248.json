@@ -1,0 +1,101 @@
+{
+    "time": "01.12.2021 15:30",
+    "home": "Wolverhampton",
+    "away": "Burnley",
+    "placar": "0-0",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "1.90",
+    "oddsDraw": "3.40",
+    "oddsAway": "4.20",
+    "homeGols": [],
+    "awayGols": [],
+    "allgols": [],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "67%",
+            "away": "33%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "6",
+            "away": "2"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "15",
+            "away": "6"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "2",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "303",
+            "away": "149"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "247",
+            "away": "105"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "7",
+            "away": "9"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "72",
+            "away": "49"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "41",
+            "away": "26"
+        }
+    ]
+}

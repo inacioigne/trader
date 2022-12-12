@@ -1,0 +1,380 @@
+mes,events,placarFull,placarHafTime,golsHalfTime,timesgol
+05/2022,Barcelona v Villarreal,0-2,0 - 1,[55],55
+05/2022,Real Sociedad v Atl. Madrid,1-2,0 - 0,"[50, 68, 93]",50
+05/2022,Sevilla v Ath. Bilbao,1-0,0 - 0,[68],68
+05/2022,Alavés v Cádiz,0-1,0 - 0,[76],76
+05/2022,Granada v Espanyol,0-0,0 - 0,[],100
+05/2022,Osasuna v Mallorca,0-2,0 - 0,"[47, 83]",47
+05/2022,Elche v Getafe,3-1,1 - 1,"[84, 92]",84
+05/2022,Valencia v Celta de Vigo,2-0,1 - 0,[60],60
+05/2022,Rayo Vallecano v Levante,2-4,1 - 3,"[61, 76]",61
+05/2022,Real Madrid v Bétis,0-0,0 - 0,[],100
+05/2022,Ath. Bilbao v Osasuna,2-0,1 - 0,[79],79
+05/2022,Atl. Madrid v Sevilla,1-1,1 - 0,[85],85
+05/2022,Bétis v Granada,2-0,1 - 0,[88],88
+05/2022,Cádiz v Real Madrid,1-1,1 - 1,[],100
+05/2022,Celta de Vigo v Elche,1-0,1 - 0,[],100
+05/2022,Getafe v Barcelona,0-0,0 - 0,[],100
+05/2022,Levante v Alavés,3-1,0 - 1,"[53, 74, 95]",53
+05/2022,Mallorca v Rayo Vallecano,2-1,1 - 0,"[60, 92]",60
+05/2022,Villarreal v Real Sociedad,1-2,1 - 0,"[56, 73]",56
+05/2022,Espanyol v Valencia,1-1,1 - 1,[],100
+05/2022,Real Madrid v Levante,6-0,4 - 0,"[68, 83]",68
+05/2022,Rayo Vallecano v Villarreal,1-5,1 - 4,[88],88
+05/2022,Real Sociedad v Cádiz,3-0,1 - 0,"[53, 98]",53
+05/2022,Elche v Atl. Madrid,0-2,0 - 1,[62],62
+05/2022,Sevilla v Mallorca,0-0,0 - 0,[],100
+05/2022,Alavés v Espanyol,2-1,1 - 1,[59],59
+05/2022,Osasuna v Getafe,1-1,1 - 1,[],100
+05/2022,Barcelona v Celta de Vigo,3-1,2 - 0,"[48, 50]",48
+05/2022,Granada v Ath. Bilbao,1-0,1 - 0,[],100
+05/2022,Valencia v Bétis,0-3,0 - 0,"[57, 87, 90]",57
+05/2022,Atl. Madrid v Real Madrid,1-0,1 - 0,[],100
+05/2022,Espanyol v Osasuna,1-1,0 - 1,[67],67
+05/2022,Villarreal v Sevilla,1-1,0 - 0,"[86, 95]",86
+05/2022,Getafe v Rayo Vallecano,0-0,0 - 0,[],100
+05/2022,Bétis v Barcelona,1-2,0 - 0,"[76, 79, 94]",76
+05/2022,Cádiz v Elche,3-0,0 - 0,"[80, 83, 93]",80
+05/2022,Celta de Vigo v Alavés,4-0,2 - 0,"[57, 66]",57
+05/2022,Ath. Bilbao v Valencia,0-0,0 - 0,[],100
+05/2022,Mallorca v Granada,2-6,1 - 1,"[46, 55, 58, 69, 78, 90]",46
+05/2022,Levante v Real Sociedad,2-1,0 - 0,"[53, 66, 90]",53
+05/2022,Getafe v Bétis,0-0,0 - 0,[],100
+05/2022,Barcelona v Mallorca,2-1,1 - 0,"[54, 79]",54
+05/2022,Rayo Vallecano v Real Sociedad,1-1,0 - 1,[77],77
+05/2022,Granada v Celta de Vigo,1-1,0 - 0,"[72, 92]",72
+05/2022,Elche v Osasuna,1-1,0 - 0,"[67, 84]",67
+04/2022,Ath. Bilbao v Atl. Madrid,2-0,1 - 0,[56],56
+04/2022,Valencia v Levante,1-1,1 - 0,[81],81
+04/2022,Real Madrid v Espanyol,4-0,2 - 0,"[55, 81]",55
+04/2022,Alavés v Villarreal,2-1,2 - 0,[47],47
+04/2022,Sevilla v Cádiz,1-1,1 - 0,[66],66
+04/2022,Barcelona v Rayo Vallecano,0-1,0 - 1,[],100
+04/2022,Real Sociedad v Barcelona,0-1,0 - 1,[],100
+04/2022,Cádiz v Ath. Bilbao,2-3,0 - 3,"[56, 87]",56
+04/2022,Espanyol v Rayo Vallecano,0-1,0 - 1,[],100
+04/2022,Levante v Sevilla,2-3,1 - 2,"[81, 87]",81
+04/2022,Osasuna v Real Madrid,1-3,1 - 2,[96],96
+04/2022,Celta de Vigo v Getafe,0-2,0 - 1,[51],51
+04/2022,Atl. Madrid v Granada,0-0,0 - 0,[],100
+04/2022,Villarreal v Valencia,2-0,2 - 0,[],100
+04/2022,Bétis v Elche,0-1,0 - 0,[82],82
+04/2022,Mallorca v Alavés,2-1,2 - 0,[73],73
+04/2022,Barcelona v Cádiz,0-1,0 - 0,[48],48
+04/2022,Sevilla v Real Madrid,2-3,2 - 0,"[50, 82, 92]",50
+04/2022,Ath. Bilbao v Celta de Vigo,0-2,0 - 2,[],100
+04/2022,Atl. Madrid v Espanyol,2-1,0 - 0,"[52, 74, 100]",52
+04/2022,Granada v Levante,1-4,0 - 1,"[56, 77, 92, 95]",56
+04/2022,Getafe v Villarreal,1-2,0 - 2,[63],63
+04/2022,Valencia v Osasuna,1-2,0 - 0,"[50, 74, 83]",50
+04/2022,Alavés v Rayo Vallecano,1-0,0 - 0,[64],64
+04/2022,Elche v Mallorca,3-0,1 - 0,"[58, 81]",58
+04/2022,Real Sociedad v Bétis,0-0,0 - 0,[],100
+04/2022,Rayo Vallecano v Valencia,1-1,0 - 0,"[57, 83]",57
+04/2022,Levante v Barcelona,2-3,0 - 0,"[52, 59, 63, 83, 92]",52
+04/2022,Elche v Real Sociedad,1-2,1 - 2,[],100
+04/2022,Espanyol v Celta de Vigo,1-0,0 - 0,[89],89
+04/2022,Osasuna v Alavés,1-0,0 - 0,[92],92
+04/2022,Real Madrid v Getafe,2-0,1 - 0,[68],68
+04/2022,Villarreal v Ath. Bilbao,1-1,0 - 1,[60],60
+04/2022,Mallorca v Atl. Madrid,1-0,0 - 0,[68],68
+04/2022,Cádiz v Bétis,1-2,0 - 0,"[58, 78, 85]",58
+04/2022,Sevilla v Granada,4-2,1 - 1,"[66, 88, 93, 99]",66
+04/2022,Real Sociedad v Espanyol,1-0,0 - 0,[96],96
+04/2022,Barcelona v Sevilla,1-0,0 - 0,[72],72
+04/2022,Granada v Rayo Vallecano,2-2,0 - 2,"[67, 94]",67
+04/2022,Valencia v Cádiz,0-0,0 - 0,[],100
+04/2022,Bétis v Osasuna,4-1,2 - 0,"[65, 82, 88]",65
+04/2022,Ath. Bilbao v Elche,2-1,1 - 0,"[86, 92]",86
+04/2022,Atl. Madrid v Alavés,4-1,1 - 0,"[63, 75, 82, 90]",63
+04/2022,Celta de Vigo v Real Madrid,1-2,0 - 1,"[52, 69]",52
+04/2022,Levante v Villarreal,2-0,0 - 0,"[69, 91]",69
+04/2022,Getafe v Mallorca,1-0,0 - 0,[82],82
+03/2022,Real Madrid v Barcelona,0-4,0 - 2,"[47, 51]",47
+03/2022,Sevilla v Real Sociedad,0-0,0 - 0,[],100
+03/2022,Cádiz v Villarreal,1-0,0 - 0,[90],90
+03/2022,Celta de Vigo v Bétis,0-0,0 - 0,[],100
+03/2022,Espanyol v Mallorca,1-0,1 - 0,[],100
+03/2022,Rayo Vallecano v Atl. Madrid,0-1,0 - 0,[49],49
+03/2022,Osasuna v Levante,3-1,1 - 0,"[57, 64, 76]",57
+03/2022,Elche v Valencia,0-1,0 - 0,[50],50
+03/2022,Alavés v Granada,2-3,0 - 0,"[50, 53, 57, 75, 87]",50
+03/2022,Ath. Bilbao v Getafe,1-1,1 - 1,[],100
+03/2022,Mallorca v Real Madrid,0-3,0 - 0,"[55, 77, 82]",55
+03/2022,Barcelona v Osasuna,4-0,3 - 0,[75],75
+03/2022,Real Sociedad v Alavés,1-0,0 - 0,[70],70
+03/2022,Bétis v Ath. Bilbao,1-0,1 - 0,[],100
+03/2022,Rayo Vallecano v Sevilla,1-1,0 - 0,"[46, 63]",46
+03/2022,Getafe v Valencia,0-0,0 - 0,[],100
+03/2022,Villarreal v Celta de Vigo,1-0,0 - 0,[64],64
+03/2022,Granada v Elche,0-1,0 - 1,[],100
+03/2022,Levante v Espanyol,1-1,0 - 0,"[50, 80]",50
+03/2022,Atl. Madrid v Cádiz,2-1,1 - 1,[68],68
+03/2022,Ath. Bilbao v Levante,3-1,0 - 0,"[63, 76, 88, 91]",63
+03/2022,Bétis v Atl. Madrid,1-3,1 - 1,"[61, 80]",61
+03/2022,Celta de Vigo v Mallorca,4-3,2 - 1,"[49, 61, 87, 97]",49
+03/2022,Elche v Barcelona,1-2,1 - 0,"[60, 84]",60
+03/2022,Cádiz v Rayo Vallecano,2-0,0 - 0,"[55, 63]",55
+03/2022,Real Madrid v Real Sociedad,4-1,2 - 1,"[76, 79]",76
+03/2022,Valencia v Granada,3-1,0 - 0,"[48, 51, 56, 62]",48
+03/2022,Espanyol v Getafe,2-0,2 - 0,[],100
+03/2022,Osasuna v Villarreal,1-0,0 - 0,[63],63
+03/2022,Alavés v Sevilla,0-0,0 - 0,[],100
+03/2022,Mallorca v Real Sociedad,0-2,0 - 1,[62],62
+02/2022,Granada v Cádiz,0-0,0 - 0,[],100
+02/2022,Barcelona v Ath. Bilbao,4-0,1 - 0,"[73, 90, 93]",73
+02/2022,Real Sociedad v Osasuna,1-0,0 - 0,[52],52
+02/2022,Sevilla v Bétis,2-1,2 - 0,[94],94
+02/2022,Villarreal v Espanyol,5-1,3 - 0,"[53, 65, 86]",53
+02/2022,Atl. Madrid v Celta de Vigo,2-0,1 - 0,[60],60
+02/2022,Rayo Vallecano v Real Madrid,0-1,0 - 0,[83],83
+02/2022,Getafe v Alavés,2-2,0 - 1,"[55, 56, 72]",55
+02/2022,Mallorca v Valencia,0-1,0 - 1,[],100
+02/2022,Levante v Elche,3-0,1 - 0,"[67, 90]",67
+02/2022,Celta de Vigo v Levante,1-1,0 - 0,"[67, 82]",67
+02/2022,Ath. Bilbao v Real Sociedad,4-0,0 - 0,"[68, 72, 80, 89]",68
+02/2022,Bétis v Mallorca,2-1,1 - 0,"[75, 83]",75
+02/2022,Valencia v Barcelona,1-4,0 - 3,"[52, 63]",52
+02/2022,Espanyol v Sevilla,1-1,0 - 1,[50],50
+02/2022,Real Madrid v Alavés,3-0,0 - 0,"[63, 80, 91]",63
+02/2022,Cádiz v Getafe,1-1,1 - 1,[],100
+02/2022,Osasuna v Atl. Madrid,0-3,0 - 1,"[59, 89]",59
+02/2022,Granada v Villarreal,1-4,0 - 2,"[61, 81, 96]",61
+02/2022,Elche v Rayo Vallecano,2-1,0 - 0,"[52, 76, 84]",52
+02/2022,Atl. Madrid v Levante,0-1,0 - 0,[54],54
+02/2022,Mallorca v Ath. Bilbao,3-2,2 - 0,"[59, 61, 88]",59
+02/2022,Espanyol v Barcelona,2-2,1 - 1,"[64, 96]",64
+02/2022,Real Sociedad v Granada,2-0,1 - 0,[74],74
+02/2022,Levante v Bétis,2-4,1 - 3,"[47, 49]",47
+02/2022,Alavés v Valencia,2-1,1 - 0,"[62, 76]",62
+02/2022,Atl. Madrid v Getafe,4-3,3 - 3,[89],89
+02/2022,Rayo Vallecano v Osasuna,0-3,0 - 2,[93],93
+02/2022,Villarreal v Real Madrid,0-0,0 - 0,[],100
+02/2022,Cádiz v Celta de Vigo,0-0,0 - 0,[],100
+02/2022,Sevilla v Elche,2-0,0 - 0,"[70, 75]",70
+02/2022,Ath. Bilbao v Espanyol,2-1,2 - 1,[],100
+02/2022,Real Madrid v Granada,1-0,0 - 0,[74],74
+02/2022,Bétis v Villarreal,0-2,0 - 1,[83],83
+02/2022,Barcelona v Atl. Madrid,4-2,3 - 1,"[49, 58]",49
+02/2022,Valencia v Real Sociedad,0-0,0 - 0,[],100
+02/2022,Osasuna v Sevilla,0-0,0 - 0,[],100
+02/2022,Celta de Vigo v Rayo Vallecano,2-0,1 - 0,[80],80
+02/2022,Mallorca v Cádiz,2-1,1 - 1,[66],66
+02/2022,Elche v Alavés,3-1,0 - 1,"[46, 58, 86]",46
+02/2022,Getafe v Levante,3-0,2 - 0,[95],95
+01/2022,Alavés v Barcelona,0-1,0 - 0,[87],87
+01/2022,Rayo Vallecano v Ath. Bilbao,0-1,0 - 1,[],100
+01/2022,Real Sociedad v Getafe,0-0,0 - 0,[],100
+01/2022,Real Madrid v Elche,2-2,0 - 1,"[76, 82, 92]",76
+01/2022,Granada v Osasuna,0-2,0 - 0,"[64, 89]",64
+01/2022,Atl. Madrid v Valencia,3-2,0 - 2,"[64, 91, 93]",64
+01/2022,Sevilla v Celta de Vigo,2-2,0 - 2,"[71, 74]",71
+01/2022,Villarreal v Mallorca,3-0,2 - 0,[87],87
+01/2022,Levante v Cádiz,0-2,0 - 1,[73],73
+01/2022,Espanyol v Bétis,1-4,1 - 2,"[53, 76]",53
+01/2022,Getafe v Granada,4-2,1 - 1,"[47, 63, 78, 87]",47
+01/2022,Valencia v Sevilla,1-1,1 - 1,[],100
+01/2022,Celta de Vigo v Osasuna,2-0,2 - 0,[],100
+01/2022,Cádiz v Espanyol,2-2,0 - 1,"[54, 91, 96]",54
+01/2022,Bétis v Alavés,4-0,3 - 0,[54],54
+01/2022,Elche v Villarreal,1-0,0 - 0,[78],78
+01/2022,Espanyol v Elche,1-2,1 - 2,[],100
+01/2022,Villarreal v Atl. Madrid,2-2,1 - 1,"[58, 67]",58
+01/2022,Alavés v Ath. Bilbao,0-0,0 - 0,[],100
+01/2022,Osasuna v Cádiz,2-0,1 - 0,[48],48
+01/2022,Sevilla v Getafe,1-0,1 - 0,[],100
+01/2022,Rayo Vallecano v Bétis,1-1,0 - 1,[70],70
+01/2022,Real Madrid v Valencia,4-1,1 - 0,"[52, 61, 76, 88]",52
+01/2022,Granada v Barcelona,1-1,0 - 0,"[57, 89]",57
+01/2022,Real Sociedad v Celta de Vigo,1-0,1 - 0,[],100
+01/2022,Levante v Mallorca,2-0,0 - 0,"[47, 97]",47
+01/2022,Cádiz v Sevilla,0-1,0 - 0,[58],58
+01/2022,Osasuna v Ath. Bilbao,1-3,1 - 2,[68],68
+01/2022,Villarreal v Levante,5-0,3 - 0,"[74, 79]",74
+01/2022,Mallorca v Barcelona,0-1,0 - 1,[],100
+01/2022,Alavés v Real Sociedad,1-1,0 - 1,[58],58
+01/2022,Bétis v Celta de Vigo,0-2,0 - 2,[],100
+01/2022,Atl. Madrid v Rayo Vallecano,2-0,1 - 0,[53],53
+01/2022,Elche v Granada,0-0,0 - 0,[],100
+01/2022,Getafe v Real Madrid,1-0,1 - 0,[],100
+12/2021,Valencia v Espanyol,1-2,0 - 0,"[51, 83, 88]",51
+12/2021,Ath. Bilbao v Real Madrid,1-2,1 - 2,[],100
+12/2021,Granada v Atl. Madrid,2-1,1 - 1,[61],61
+12/2021,Sevilla v Barcelona,1-1,1 - 1,[],100
+12/2021,Villarreal v Alavés,5-2,2 - 1,"[65, 76, 79, 88]",65
+12/2021,Levante v Valencia,3-4,2 - 1,"[50, 72, 85, 91]",50
+12/2021,Real Madrid v Cádiz,0-0,0 - 0,[],100
+12/2021,Getafe v Osasuna,1-0,0 - 0,[93],93
+12/2021,Ath. Bilbao v Bétis,3-2,1 - 1,"[52, 72, 89]",52
+12/2021,Granada v Mallorca,4-1,1 - 1,"[61, 91, 96]",61
+12/2021,Sevilla v Atl. Madrid,2-1,1 - 1,[88],88
+12/2021,Barcelona v Elche,3-2,2 - 0,"[62, 63, 85]",62
+12/2021,Real Sociedad v Villarreal,1-3,1 - 1,"[68, 96]",68
+12/2021,Rayo Vallecano v Alavés,2-0,2 - 0,[],100
+12/2021,Celta de Vigo v Espanyol,3-1,1 - 0,"[47, 82, 92]",47
+12/2021,Cádiz v Granada,1-1,1 - 0,[88],88
+12/2021,Real Madrid v Atl. Madrid,2-0,1 - 0,[57],57
+12/2021,Bétis v Real Sociedad,4-0,1 - 0,"[57, 66, 79]",57
+12/2021,Osasuna v Barcelona,2-2,1 - 1,"[49, 86]",49
+12/2021,Villarreal v Rayo Vallecano,2-0,2 - 0,[],100
+12/2021,Ath. Bilbao v Sevilla,0-1,0 - 1,[],100
+12/2021,Valencia v Elche,2-1,1 - 0,"[75, 86]",75
+12/2021,Alavés v Getafe,1-1,0 - 1,[86],86
+12/2021,Espanyol v Levante,4-3,1 - 2,"[49, 57, 60, 76]",49
+12/2021,Mallorca v Celta de Vigo,0-0,0 - 0,[],100
+12/2021,Getafe v Ath. Bilbao,0-0,0 - 0,[],100
+12/2021,Celta de Vigo v Valencia,1-2,1 - 1,[53],53
+12/2021,Levante v Osasuna,0-0,0 - 0,[],100
+12/2021,Elche v Cádiz,3-1,1 - 0,"[75, 91, 93]",75
+12/2021,Rayo Vallecano v Espanyol,1-0,0 - 0,[54],54
+12/2021,Real Sociedad v Real Madrid,0-2,0 - 0,"[47, 57]",47
+12/2021,Atl. Madrid v Mallorca,1-2,0 - 0,"[68, 80, 91]",68
+12/2021,Barcelona v Bétis,0-1,0 - 0,[79],79
+12/2021,Sevilla v Villarreal,1-0,1 - 0,[],100
+12/2021,Granada v Alavés,2-1,1 - 0,"[81, 86]",81
+12/2021,Real Madrid v Ath. Bilbao,1-0,1 - 0,[],100
+11/2021,Osasuna v Elche,1-1,1 - 1,[],100
+11/2021,Real Madrid v Sevilla,2-1,1 - 1,[87],87
+11/2021,Cádiz v Atl. Madrid,1-4,0 - 0,"[56, 70, 76, 86, 86]",56
+11/2021,Espanyol v Real Sociedad,1-0,0 - 0,[77],77
+11/2021,Bétis v Levante,3-1,0 - 1,"[54, 63, 78]",54
+11/2021,Villarreal v Barcelona,1-3,0 - 0,"[48, 76, 88, 94]",48
+11/2021,Mallorca v Getafe,0-0,0 - 0,[],100
+11/2021,Valencia v Rayo Vallecano,1-1,1 - 0,[64],64
+11/2021,Alavés v Celta de Vigo,1-2,1 - 1,[70],70
+11/2021,Ath. Bilbao v Granada,2-2,1 - 2,[76],76
+11/2021,Rayo Vallecano v Mallorca,3-1,2 - 0,"[63, 89]",63
+11/2021,Real Sociedad v Valencia,0-0,0 - 0,[],100
+11/2021,Elche v Bétis,0-3,0 - 3,[],100
+11/2021,Granada v Real Madrid,1-4,1 - 2,"[56, 76]",56
+11/2021,Getafe v Cádiz,4-0,1 - 0,"[60, 81, 94]",60
+11/2021,Barcelona v Espanyol,1-0,0 - 0,[48],48
+11/2021,Atl. Madrid v Osasuna,1-0,0 - 0,[87],87
+11/2021,Sevilla v Alavés,2-2,1 - 2,[92],92
+11/2021,Celta de Vigo v Villarreal,1-1,0 - 1,[72],72
+11/2021,Levante v Ath. Bilbao,0-0,0 - 0,[],100
+11/2021,Bétis v Sevilla,0-2,0 - 0,"[55, 81]",55
+11/2021,Mallorca v Elche,2-2,0 - 0,"[68, 72, 75, 95]",68
+11/2021,Osasuna v Real Sociedad,0-2,0 - 0,"[72, 82]",72
+11/2021,Valencia v Atl. Madrid,3-3,0 - 1,"[50, 58, 60, 92, 96]",50
+11/2021,Villarreal v Getafe,1-0,1 - 0,[],100
+11/2021,Real Madrid v Rayo Vallecano,2-1,2 - 0,[76],76
+11/2021,Alavés v Levante,2-1,0 - 1,"[77, 91]",77
+11/2021,Celta de Vigo v Barcelona,3-3,0 - 3,"[52, 74, 96]",52
+11/2021,Espanyol v Granada,2-0,2 - 0,[],100
+11/2021,Ath. Bilbao v Cádiz,0-1,0 - 1,[],100
+11/2021,Levante v Granada,0-3,0 - 2,[69],69
+11/2021,Rayo Vallecano v Celta de Vigo,0-0,0 - 0,[],100
+10/2021,Real Sociedad v Ath. Bilbao,1-1,0 - 0,"[58, 91]",58
+10/2021,Getafe v Espanyol,2-1,1 - 1,[56],56
+10/2021,Atl. Madrid v Bétis,3-0,1 - 0,"[63, 80]",63
+10/2021,Cádiz v Mallorca,1-1,0 - 1,[93],93
+10/2021,Barcelona v Alavés,1-1,0 - 0,"[49, 52]",49
+10/2021,Valencia v Villarreal,2-0,1 - 0,[77],77
+10/2021,Sevilla v Osasuna,2-0,1 - 0,[60],60
+10/2021,Elche v Real Madrid,1-2,0 - 1,"[73, 86]",73
+10/2021,Levante v Atl. Madrid,2-2,1 - 1,"[76, 90]",76
+10/2021,Granada v Getafe,1-1,0 - 1,[97],97
+10/2021,Celta de Vigo v Real Sociedad,0-2,0 - 0,"[54, 79]",54
+10/2021,Real Madrid v Osasuna,0-0,0 - 0,[],100
+10/2021,Bétis v Valencia,4-1,2 - 1,"[61, 68]",61
+10/2021,Mallorca v Sevilla,1-1,1 - 0,[73],73
+10/2021,Rayo Vallecano v Barcelona,1-0,1 - 0,[],100
+10/2021,Villarreal v Cádiz,3-3,1 - 2,"[52, 80, 95]",52
+10/2021,Espanyol v Ath. Bilbao,1-1,1 - 0,[52],52
+10/2021,Alavés v Elche,1-0,0 - 0,[47],47
+10/2021,Getafe v Celta de Vigo,0-3,0 - 0,"[55, 58, 73]",55
+10/2021,Atl. Madrid v Real Sociedad,2-2,0 - 1,"[48, 61, 77]",48
+10/2021,Bétis v Rayo Vallecano,3-2,2 - 1,"[65, 75]",65
+10/2021,Barcelona v Real Madrid,1-2,0 - 1,"[94, 97]",94
+10/2021,Sevilla v Levante,5-3,3 - 1,"[50, 55, 61, 64]",50
+10/2021,Ath. Bilbao v Villarreal,2-1,1 - 1,[77],77
+10/2021,Elche v Espanyol,2-2,1 - 0,"[51, 52, 84]",51
+10/2021,Cádiz v Alavés,0-2,0 - 1,[91],91
+10/2021,Valencia v Mallorca,2-2,0 - 2,"[93, 98]",93
+10/2021,Osasuna v Granada,1-1,1 - 0,[90],90
+10/2021,Espanyol v Cádiz,2-0,1 - 0,[65],65
+10/2021,Alavés v Bétis,0-1,0 - 0,[89],89
+10/2021,Barcelona v Valencia,3-1,2 - 1,[85],85
+10/2021,Villarreal v Osasuna,1-2,0 - 1,"[55, 87]",55
+10/2021,Celta de Vigo v Sevilla,0-1,0 - 0,[54],54
+10/2021,Rayo Vallecano v Elche,2-1,1 - 1,[65],65
+10/2021,Real Sociedad v Mallorca,1-0,0 - 0,[90],90
+10/2021,Levante v Getafe,0-0,0 - 0,[],100
+10/2021,Granada v Sevilla,1-0,1 - 0,[],100
+10/2021,Getafe v Real Sociedad,1-1,1 - 0,[68],68
+10/2021,Villarreal v Bétis,2-0,1 - 0,[69],69
+10/2021,Espanyol v Real Madrid,2-1,1 - 0,"[60, 71]",60
+10/2021,Elche v Celta de Vigo,1-0,0 - 0,[49],49
+10/2021,Atl. Madrid v Barcelona,2-0,2 - 0,[],100
+10/2021,Cádiz v Valencia,0-0,0 - 0,[],100
+10/2021,Mallorca v Levante,1-0,0 - 0,[74],74
+10/2021,Osasuna v Rayo Vallecano,1-0,0 - 0,[91],91
+10/2021,Ath. Bilbao v Alavés,1-0,1 - 0,[],100
+09/2021,Celta de Vigo v Granada,1-0,0 - 0,[94],94
+09/2021,Bétis v Getafe,2-0,1 - 0,[55],55
+09/2021,Rayo Vallecano v Cádiz,3-1,2 - 1,[87],87
+09/2021,Real Sociedad v Elche,1-0,0 - 0,[81],81
+09/2021,Barcelona v Levante,3-0,2 - 0,[91],91
+09/2021,Mallorca v Osasuna,2-3,2 - 1,"[58, 88]",58
+09/2021,Real Madrid v Villarreal,0-0,0 - 0,[],100
+09/2021,Sevilla v Espanyol,2-0,1 - 0,[87],87
+09/2021,Valencia v Ath. Bilbao,1-1,0 - 0,"[69, 95]",69
+09/2021,Alavés v Atl. Madrid,1-0,1 - 0,[],100
+09/2021,Cádiz v Barcelona,0-0,0 - 0,[],100
+09/2021,Granada v Real Sociedad,2-3,1 - 0,"[52, 60, 70, 82]",52
+09/2021,Osasuna v Bétis,1-3,1 - 1,"[80, 93]",80
+09/2021,Real Madrid v Mallorca,6-1,3 - 1,"[55, 78, 84]",55
+09/2021,Villarreal v Elche,4-1,2 - 1,"[60, 94]",60
+09/2021,Espanyol v Alavés,1-0,0 - 0,[54],54
+09/2021,Sevilla v Valencia,3-1,3 - 1,[],100
+09/2021,Ath. Bilbao v Rayo Vallecano,1-2,1 - 1,[96],96
+09/2021,Levante v Celta de Vigo,0-2,0 - 0,"[66, 85]",66
+09/2021,Getafe v Atl. Madrid,1-2,1 - 0,"[78, 90]",78
+09/2021,Barcelona v Granada,1-1,0 - 1,[90],90
+09/2021,Valencia v Real Madrid,1-2,0 - 0,"[66, 86, 88]",66
+09/2021,Bétis v Espanyol,2-2,2 - 1,[97],97
+09/2021,Real Sociedad v Sevilla,0-0,0 - 0,[],100
+09/2021,Mallorca v Villarreal,0-0,0 - 0,[],100
+09/2021,Alavés v Osasuna,0-2,0 - 2,[],100
+09/2021,Elche v Levante,1-1,1 - 0,[55],55
+09/2021,Atl. Madrid v Ath. Bilbao,0-0,0 - 0,[],100
+09/2021,Rayo Vallecano v Getafe,3-0,1 - 0,"[78, 81]",78
+09/2021,Celta de Vigo v Cádiz,1-2,0 - 2,[64],64
+09/2021,Granada v Bétis,1-2,0 - 1,"[66, 89]",66
+09/2021,Getafe v Elche,0-1,0 - 0,[69],69
+09/2021,Real Madrid v Celta de Vigo,5-2,1 - 2,"[46, 54, 72, 87]",46
+09/2021,Cádiz v Real Sociedad,0-2,0 - 0,"[71, 84]",71
+09/2021,Osasuna v Valencia,1-4,1 - 1,"[51, 55, 73]",51
+09/2021,Espanyol v Atl. Madrid,1-2,1 - 0,"[79, 99]",79
+09/2021,Ath. Bilbao v Mallorca,2-0,0 - 0,"[68, 74]",68
+09/2021,Levante v Rayo Vallecano,1-1,1 - 0,[92],92
+08/2021,Atl. Madrid v Villarreal,2-2,0 - 0,"[52, 56, 74, 95]",52
+08/2021,Cádiz v Osasuna,2-3,1 - 0,"[60, 66, 91, 95]",60
+08/2021,Rayo Vallecano v Granada,4-0,3 - 0,[58],58
+08/2021,Barcelona v Getafe,2-1,2 - 1,[],100
+08/2021,Bétis v Real Madrid,0-1,0 - 0,[61],61
+08/2021,Elche v Sevilla,1-1,1 - 1,[],100
+08/2021,Real Sociedad v Levante,1-0,1 - 0,[],100
+08/2021,Celta de Vigo v Ath. Bilbao,0-1,0 - 1,[],100
+08/2021,Valencia v Alavés,3-0,2 - 0,[60],60
+08/2021,Mallorca v Espanyol,1-0,1 - 0,[],100
+08/2021,Osasuna v Celta de Vigo,0-0,0 - 0,[],100
+08/2021,Getafe v Sevilla,0-1,0 - 0,[93],93
+08/2021,Levante v Real Madrid,3-3,0 - 1,"[46, 57, 73, 79, 85]",46
+08/2021,Atl. Madrid v Elche,1-0,1 - 0,[],100
+08/2021,Real Sociedad v Rayo Vallecano,1-0,0 - 0,[68],68
+08/2021,Ath. Bilbao v Barcelona,1-1,0 - 0,"[50, 75]",50
+08/2021,Espanyol v Villarreal,0-0,0 - 0,[],100
+08/2021,Granada v Valencia,1-1,1 - 0,[88],88
+08/2021,Alavés v Mallorca,0-1,0 - 0,[80],80
+08/2021,Bétis v Cádiz,1-1,1 - 1,[],100
+08/2021,Elche v Ath. Bilbao,0-0,0 - 0,[],100
+08/2021,Villarreal v Granada,0-0,0 - 0,[],100
+08/2021,Sevilla v Rayo Vallecano,3-0,1 - 0,"[55, 79]",55
+08/2021,Barcelona v Real Sociedad,4-2,2 - 0,"[59, 82, 85, 91]",59
+08/2021,Celta de Vigo v Atl. Madrid,1-2,0 - 1,"[59, 64]",59
+08/2021,Alavés v Real Madrid,1-4,0 - 0,"[48, 56, 62, 65, 92]",48
+08/2021,Osasuna v Espanyol,0-0,0 - 0,[],100
+08/2021,Cádiz v Levante,1-1,0 - 1,[97],97
+08/2021,Mallorca v Bétis,1-1,1 - 0,[59],59

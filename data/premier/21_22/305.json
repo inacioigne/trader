@@ -1,0 +1,111 @@
+{
+    "time": "16.10.2021 10:00",
+    "home": "Leicester",
+    "away": "Manchester Utd",
+    "placar": "4-2",
+    "placarHafHome": "1",
+    "placarHafAway": "1",
+    "oddsHome": "3.60",
+    "oddsDraw": "3.75",
+    "oddsAway": "1.95",
+    "homeGols": [
+        "31'",
+        "78'",
+        "83'",
+        "90+1'"
+    ],
+    "awayGols": [
+        "19'",
+        "82'"
+    ],
+    "allgols": [
+        "19'",
+        "31'",
+        "78'",
+        "82'",
+        "83'",
+        "90+1'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "51%",
+            "away": "49%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "8"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "8",
+            "away": "3"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "0",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "8",
+            "away": "3"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "3",
+            "away": "9"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "291",
+            "away": "264"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "255",
+            "away": "233"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "4",
+            "away": "7"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "54",
+            "away": "47"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "22",
+            "away": "30"
+        }
+    ]
+}

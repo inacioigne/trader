@@ -1,0 +1,111 @@
+{
+    "time": "27.11.2021 11:00",
+    "home": "Liverpool",
+    "away": "Southampton",
+    "placar": "4-0",
+    "placarHafHome": "3",
+    "placarHafAway": "0",
+    "oddsHome": "1.25",
+    "oddsDraw": "6.00",
+    "oddsAway": "11.00",
+    "homeGols": [
+        "2'",
+        "32'",
+        "37'",
+        "52'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "2'",
+        "32'",
+        "37'",
+        "52'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "64%",
+            "away": "36%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "12",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "6",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "11",
+            "away": "3"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "8",
+            "away": "10"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "2",
+            "away": "11"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "286",
+            "away": "160"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "225",
+            "away": "98"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "6",
+            "away": "9"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "51",
+            "away": "56"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "26",
+            "away": "14"
+        }
+    ]
+}

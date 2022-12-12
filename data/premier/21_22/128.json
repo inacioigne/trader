@@ -1,0 +1,108 @@
+{
+    "time": "26.02.2022 11:00",
+    "home": "Crystal Palace",
+    "away": "Burnley",
+    "placar": "1-1",
+    "placarHafHome": "1",
+    "placarHafAway": "0",
+    "oddsHome": "1.90",
+    "oddsDraw": "3.30",
+    "oddsAway": "4.50",
+    "homeGols": [
+        "9'"
+    ],
+    "awayGols": [
+        "46'"
+    ],
+    "allgols": [
+        "9'",
+        "46'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "55%",
+            "away": "45%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "8",
+            "away": "2"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "4",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "9",
+            "away": "2"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "12",
+            "away": "14"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "2",
+            "away": "9"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "255",
+            "away": "200"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "202",
+            "away": "145"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "4"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "44",
+            "away": "72"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "14",
+            "away": "15"
+        }
+    ]
+}

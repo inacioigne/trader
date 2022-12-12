@@ -1,0 +1,110 @@
+{
+    "time": "28.11.2021 10:00",
+    "home": "Manchester City",
+    "away": "West Ham",
+    "placar": "2-1",
+    "placarHafHome": "1",
+    "placarHafAway": "0",
+    "oddsHome": "1.25",
+    "oddsDraw": "6.00",
+    "oddsAway": "11.00",
+    "homeGols": [
+        "33'",
+        "90'"
+    ],
+    "awayGols": [
+        "90+4'"
+    ],
+    "allgols": [
+        "33'",
+        "90'",
+        "90+4'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "69%",
+            "away": "31%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "13",
+            "away": "2"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "5",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "5",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "6",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "3",
+            "away": "6"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "4"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "3",
+            "away": "2"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "369",
+            "away": "158"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "335",
+            "away": "122"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "7",
+            "away": "3"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "62",
+            "away": "30"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "34",
+            "away": "22"
+        }
+    ]
+}

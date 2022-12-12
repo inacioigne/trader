@@ -1,0 +1,105 @@
+{
+    "time": "01.11.2021 16:00",
+    "home": "Wolverhampton",
+    "away": "Everton",
+    "placar": "2-1",
+    "placarHafHome": "2",
+    "placarHafAway": "0",
+    "oddsHome": "2.15",
+    "oddsDraw": "3.20",
+    "oddsAway": "3.60",
+    "homeGols": [
+        "28'",
+        "32'"
+    ],
+    "awayGols": [
+        "66'"
+    ],
+    "allgols": [
+        "28'",
+        "32'",
+        "66'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "70%",
+            "away": "30%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "8",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "4",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "4",
+            "away": "6"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "10",
+            "away": "7"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "6",
+            "away": "3"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "336",
+            "away": "153"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "292",
+            "away": "111"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "5",
+            "away": "9"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "81",
+            "away": "41"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "25",
+            "away": "10"
+        }
+    ]
+}

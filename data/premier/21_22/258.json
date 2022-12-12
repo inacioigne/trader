@@ -1,0 +1,101 @@
+{
+    "time": "27.11.2021 11:00",
+    "home": "Norwich",
+    "away": "Wolverhampton",
+    "placar": "0-0",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "3.50",
+    "oddsDraw": "3.30",
+    "oddsAway": "2.15",
+    "homeGols": [],
+    "awayGols": [],
+    "allgols": [],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "46%",
+            "away": "54%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "7",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "4",
+            "away": "8"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "5",
+            "away": "7"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "7",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "237",
+            "away": "283"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "197",
+            "away": "243"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "11"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "65",
+            "away": "47"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "26",
+            "away": "15"
+        }
+    ]
+}

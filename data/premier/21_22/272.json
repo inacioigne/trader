@@ -1,0 +1,101 @@
+{
+    "time": "07.11.2021 10:00",
+    "home": "Everton",
+    "away": "Tottenham",
+    "placar": "0-0",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "3.40",
+    "oddsDraw": "3.30",
+    "oddsAway": "2.20",
+    "homeGols": [],
+    "awayGols": [],
+    "allgols": [],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "41%",
+            "away": "59%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "5"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "9",
+            "away": "10"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "10",
+            "away": "14"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "9",
+            "away": "10"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "209",
+            "away": "302"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "166",
+            "away": "256"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "14",
+            "away": "5"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "61",
+            "away": "53"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "23",
+            "away": "14"
+        }
+    ]
+}

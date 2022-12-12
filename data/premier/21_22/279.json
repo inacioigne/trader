@@ -1,0 +1,105 @@
+{
+    "time": "05.11.2021 16:00",
+    "home": "Southampton",
+    "away": "Aston Villa",
+    "placar": "1-0",
+    "placarHafHome": "1",
+    "placarHafAway": "0",
+    "oddsHome": "2.00",
+    "oddsDraw": "3.60",
+    "oddsAway": "3.60",
+    "homeGols": [
+        "3'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "3'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "70%",
+            "away": "30%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "7",
+            "away": "4"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "5",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "8",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "10",
+            "away": "10"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "4",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "281",
+            "away": "142"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "243",
+            "away": "101"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "7",
+            "away": "12"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "51",
+            "away": "52"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "38",
+            "away": "16"
+        }
+    ]
+}

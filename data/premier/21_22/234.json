@@ -1,0 +1,105 @@
+{
+    "time": "05.12.2021 10:00",
+    "home": "Manchester Utd",
+    "away": "Crystal Palace",
+    "placar": "1-0",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "1.50",
+    "oddsDraw": "4.33",
+    "oddsAway": "6.50",
+    "homeGols": [
+        "77'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "77'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "66%",
+            "away": "34%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "12",
+            "away": "5"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "6",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "3",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "7",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "19",
+            "away": "9"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "6",
+            "away": "4"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "309",
+            "away": "157"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "263",
+            "away": "114"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "12"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "77",
+            "away": "34"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "51",
+            "away": "7"
+        }
+    ]
+}

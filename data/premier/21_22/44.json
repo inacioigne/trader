@@ -1,0 +1,110 @@
+{
+    "time": "30.04.2022 10:00",
+    "home": "Southampton",
+    "away": "Crystal Palace",
+    "placar": "1-2",
+    "placarHafHome": "1",
+    "placarHafAway": "0",
+    "oddsHome": "2.45",
+    "oddsDraw": "3.10",
+    "oddsAway": "3.00",
+    "homeGols": [
+        "9'"
+    ],
+    "awayGols": [
+        "60'",
+        "90+2'"
+    ],
+    "allgols": [
+        "9'",
+        "60'",
+        "90+2'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "35%",
+            "away": "65%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "3",
+            "away": "7"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "0",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "7",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "5",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "4"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "7",
+            "away": "11"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "3",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "3"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "135",
+            "away": "251"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "89",
+            "away": "214"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "14",
+            "away": "4"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "41",
+            "away": "51"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "17",
+            "away": "22"
+        }
+    ]
+}

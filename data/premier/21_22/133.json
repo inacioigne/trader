@@ -1,0 +1,115 @@
+{
+    "time": "23.02.2022 15:45",
+    "home": "Liverpool",
+    "away": "Leeds",
+    "placar": "6-0",
+    "placarHafHome": "3",
+    "placarHafAway": "0",
+    "oddsHome": "1.18",
+    "oddsDraw": "7.50",
+    "oddsAway": "13.00",
+    "homeGols": [
+        "15'",
+        "30'",
+        "35'",
+        "80'",
+        "90'",
+        "90+3'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "15'",
+        "30'",
+        "35'",
+        "80'",
+        "90'",
+        "90+3'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "65%",
+            "away": "35%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "13",
+            "away": "0"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "8",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "8",
+            "away": "5"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "1",
+            "away": "3"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "12",
+            "away": "6"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "5"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "4",
+            "away": "7"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "314",
+            "away": "169"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "269",
+            "away": "118"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "4",
+            "away": "10"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "46",
+            "away": "21"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "22",
+            "away": "8"
+        }
+    ]
+}

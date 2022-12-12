@@ -1,0 +1,105 @@
+{
+    "time": "01.05.2022 11:30",
+    "home": "West Ham",
+    "away": "Arsenal",
+    "placar": "1-2",
+    "placarHafHome": "1",
+    "placarHafAway": "1",
+    "oddsHome": "4.20",
+    "oddsDraw": "4.00",
+    "oddsAway": "1.80",
+    "homeGols": [
+        "45'"
+    ],
+    "awayGols": [
+        "38'",
+        "54'"
+    ],
+    "allgols": [
+        "38'",
+        "45'",
+        "54'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "50%",
+            "away": "50%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "6",
+            "away": "4"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "3",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "4",
+            "away": "4"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "3",
+            "away": "5"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "11",
+            "away": "5"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "5",
+            "away": "4"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "272",
+            "away": "271"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "235",
+            "away": "232"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "4",
+            "away": "7"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "51",
+            "away": "54"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "30",
+            "away": "17"
+        }
+    ]
+}

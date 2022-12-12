@@ -1,0 +1,109 @@
+{
+    "time": "22.05.2022 11:00",
+    "home": "Manchester City",
+    "away": "Aston Villa",
+    "placar": "3-2",
+    "placarHafHome": "0",
+    "placarHafAway": "1",
+    "oddsHome": "1.18",
+    "oddsDraw": "7.50",
+    "oddsAway": "13.00",
+    "homeGols": [
+        "76'",
+        "78'",
+        "81'"
+    ],
+    "awayGols": [
+        "37'",
+        "69'"
+    ],
+    "allgols": [
+        "37'",
+        "69'",
+        "76'",
+        "78'",
+        "81'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "70%",
+            "away": "30%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "9",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "6",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "7",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "17",
+            "away": "6"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "325",
+            "away": "133"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "292",
+            "away": "100"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "6",
+            "away": "9"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "81",
+            "away": "24"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "50",
+            "away": "11"
+        }
+    ]
+}

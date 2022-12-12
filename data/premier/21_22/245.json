@@ -1,0 +1,107 @@
+{
+    "time": "01.12.2021 15:30",
+    "home": "Southampton",
+    "away": "Leicester",
+    "placar": "2-2",
+    "placarHafHome": "2",
+    "placarHafAway": "1",
+    "oddsHome": "2.25",
+    "oddsDraw": "3.50",
+    "oddsAway": "3.10",
+    "homeGols": [
+        "3'",
+        "34'"
+    ],
+    "awayGols": [
+        "22'",
+        "49'"
+    ],
+    "allgols": [
+        "3'",
+        "22'",
+        "34'",
+        "49'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "43%",
+            "away": "57%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "9",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "6",
+            "away": "3"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "3",
+            "away": "8"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "11",
+            "away": "10"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "4"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "8",
+            "away": "2"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "191",
+            "away": "251"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "140",
+            "away": "201"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "5"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "66",
+            "away": "48"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "19",
+            "away": "11"
+        }
+    ]
+}

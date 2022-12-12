@@ -1,0 +1,110 @@
+{
+    "time": "13.03.2022 10:00",
+    "home": "West Ham",
+    "away": "Aston Villa",
+    "placar": "2-1",
+    "placarHafHome": "0",
+    "placarHafAway": "0",
+    "oddsHome": "2.40",
+    "oddsDraw": "3.30",
+    "oddsAway": "2.90",
+    "homeGols": [
+        "70'",
+        "82'"
+    ],
+    "awayGols": [
+        "90'"
+    ],
+    "allgols": [
+        "70'",
+        "82'",
+        "90'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "49%",
+            "away": "51%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "4",
+            "away": "3"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "3",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "1",
+            "away": "7"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "11",
+            "away": "7"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "7",
+            "away": "1"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "252",
+            "away": "262"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "217",
+            "away": "219"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "2",
+            "away": "7"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "68",
+            "away": "50"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "39",
+            "away": "21"
+        }
+    ]
+}

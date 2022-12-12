@@ -1,0 +1,108 @@
+{
+    "time": "15.05.2022 09:00",
+    "home": "Wolverhampton",
+    "away": "Norwich",
+    "placar": "1-1",
+    "placarHafHome": "0",
+    "placarHafAway": "1",
+    "oddsHome": "1.55",
+    "oddsDraw": "4.50",
+    "oddsAway": "5.75",
+    "homeGols": [
+        "55'"
+    ],
+    "awayGols": [
+        "37'"
+    ],
+    "allgols": [
+        "37'",
+        "55'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "62%",
+            "away": "38%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "9",
+            "away": "7"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "5",
+            "away": "4"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "3",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "3",
+            "away": "1"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "1",
+            "away": "2"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "7",
+            "away": "8"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "1",
+            "away": "4"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "312",
+            "away": "192"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "285",
+            "away": "155"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "4",
+            "away": "4"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "74",
+            "away": "24"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "40",
+            "away": "3"
+        }
+    ]
+}

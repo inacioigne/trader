@@ -1,0 +1,308 @@
+mes,events,placarFull,placarHafTime,golsHalfTime,timesgol
+05/2022,Moreirense v Chaves,1-0,1 - 0,[],100
+05/2022,Chaves v Moreirense,2-0,1 - 0,[68],68
+05/2022,Vitória SC v Gil Vicente,5-0,1 - 0,"[51, 83, 84, 90]",51
+05/2022,Famalicao v Braga,3-2,1 - 2,"[80, 89]",80
+05/2022,Sporting CP v Santa Clara,4-0,1 - 0,"[51, 56, 78]",51
+05/2022,FC Porto v Estoril,2-0,0 - 0,"[48, 88]",48
+05/2022,Maritimo v Portimonense,0-1,0 - 0,[80],80
+05/2022,Arouca v BSAD,0-0,0 - 0,[],100
+05/2022,Moreirense v Vizela,4-1,3 - 0,"[66, 93]",66
+05/2022,Tondela v Boavista,2-2,1 - 0,"[51, 77, 87]",51
+05/2022,Ferreira v Benfica,0-2,0 - 2,[],100
+05/2022,BSAD v Famalicao,2-3,1 - 0,"[67, 76, 93, 95]",67
+05/2022,Santa Clara v Ferreira,2-0,1 - 0,[67],67
+05/2022,Braga v Arouca,1-0,0 - 0,[87],87
+05/2022,Gil Vicente v Tondela,3-0,0 - 0,"[56, 63, 77]",56
+05/2022,Vizela v Maritimo,1-1,0 - 0,"[56, 61]",56
+05/2022,Portimonense v Sporting CP,2-3,2 - 1,"[70, 76]",70
+05/2022,Benfica v FC Porto,0-1,0 - 0,[94],94
+05/2022,Estoril v Moreirense,1-0,0 - 0,[65],65
+05/2022,Boavista v Vitória SC,1-1,0 - 1,[69],69
+05/2022,Ferreira v Tondela,1-1,0 - 1,[92],92
+05/2022,Sporting CP v Gil Vicente,4-1,2 - 1,"[53, 63]",53
+05/2022,Moreirense v Boavista,1-2,0 - 1,"[88, 89]",88
+05/2022,Vitória SC v Santa Clara,1-1,1 - 0,[55],55
+04/2022,BSAD v Braga,0-1,0 - 0,[90],90
+04/2022,FC Porto v Vizela,4-2,2 - 1,"[49, 56, 87]",49
+04/2022,Maritimo v Benfica,0-1,0 - 1,[],100
+04/2022,Arouca v Portimonense,1-0,0 - 0,[50],50
+04/2022,Famalicao v Estoril,3-1,1 - 0,"[66, 68, 94]",66
+04/2022,Boavista v Sporting CP,0-3,0 - 1,"[58, 83]",58
+04/2022,Braga v FC Porto,1-0,0 - 0,[54],54
+04/2022,Tondela v Vitória SC,1-1,0 - 0,"[63, 67]",63
+04/2022,Estoril v BSAD,2-2,2 - 0,"[66, 96]",66
+04/2022,Gil Vicente v Ferreira,1-1,0 - 0,"[52, 73]",52
+04/2022,Benfica v Famalicao,0-0,0 - 0,[],100
+04/2022,Santa Clara v Maritimo,2-2,2 - 0,"[64, 85]",64
+04/2022,Portimonense v Moreirense,1-0,1 - 0,[],100
+04/2022,Vizela v Arouca,2-1,1 - 0,"[49, 72]",49
+04/2022,Estoril v Braga,0-0,0 - 0,[],100
+04/2022,Sporting CP v Benfica,0-2,0 - 1,[92],92
+04/2022,FC Porto v Portimonense,7-0,4 - 0,"[47, 55, 60]",47
+04/2022,BSAD v Vizela,1-0,1 - 0,[],100
+04/2022,Maritimo v Boavista,4-0,2 - 0,"[63, 69]",63
+04/2022,Moreirense v Tondela,2-0,2 - 0,[],100
+04/2022,Vitória SC v Ferreira,4-0,2 - 0,"[67, 86]",67
+04/2022,Famalicao v Gil Vicente,2-2,2 - 1,[88],88
+04/2022,Arouca v Santa Clara,1-1,0 - 0,"[54, 72]",54
+04/2022,Vizela v Braga,0-1,0 - 1,[],100
+04/2022,Vitória SC v FC Porto,0-1,0 - 1,[],100
+04/2022,Portimonense v Famalicao,1-0,1 - 0,[],100
+04/2022,Santa Clara v Estoril,2-0,1 - 0,[53],53
+04/2022,Tondela v Sporting CP,1-3,0 - 2,"[69, 71]",69
+04/2022,Benfica v BSAD,3-1,1 - 1,"[54, 58]",54
+04/2022,Boavista v Arouca,1-0,1 - 0,[],100
+04/2022,Ferreira v Maritimo,2-0,2 - 0,[],100
+04/2022,Gil Vicente v Moreirense,1-2,0 - 0,"[61, 75, 88]",61
+04/2022,FC Porto v Santa Clara,3-0,2 - 0,[84],84
+04/2022,Sporting CP v Ferreira,2-0,1 - 0,[72],72
+04/2022,Moreirense v Vitória SC,0-1,0 - 0,[62],62
+04/2022,Maritimo v Tondela,1-3,1 - 1,"[86, 96]",86
+04/2022,Famalicao v Boavista,1-2,0 - 2,[48],48
+04/2022,Arouca v Gil Vicente,2-1,0 - 0,"[54, 59, 92]",54
+04/2022,Estoril v Vizela,1-2,1 - 1,[63],63
+04/2022,BSAD v Portimonense,2-0,1 - 0,[94],94
+04/2022,Braga v Benfica,3-2,1 - 0,"[59, 74, 77, 79]",59
+03/2022,Boavista v FC Porto,0-1,0 - 1,[],100
+03/2022,Portimonense v Braga,1-2,0 - 2,[63],63
+03/2022,Benfica v Estoril,2-1,1 - 0,"[53, 93]",53
+03/2022,Ferreira v Moreirense,2-1,1 - 0,"[50, 70]",50
+03/2022,Gil Vicente v Maritimo,1-1,1 - 1,[],100
+03/2022,Vitória SC v Sporting CP,1-3,1 - 1,"[70, 98]",70
+03/2022,Santa Clara v BSAD,0-0,0 - 0,[],100
+03/2022,Tondela v Arouca,2-2,2 - 1,[69],69
+03/2022,Vizela v Famalicao,1-1,0 - 1,[91],91
+03/2022,Moreirense v Sporting CP,0-2,0 - 2,[],100
+03/2022,Braga v Gil Vicente,0-1,0 - 0,[89],89
+03/2022,FC Porto v Tondela,4-0,1 - 0,"[73, 76, 79]",73
+03/2022,Maritimo v Vitória SC,0-1,0 - 0,[82],82
+03/2022,BSAD v Boavista,0-0,0 - 0,[],100
+03/2022,Arouca v Ferreira,0-1,0 - 1,[],100
+03/2022,Estoril v Portimonense,2-0,1 - 0,[47],47
+03/2022,Famalicao v Santa Clara,0-0,0 - 0,[],100
+03/2022,Benfica v Vizela,1-1,0 - 0,"[65, 75]",65
+03/2022,Tondela v BSAD,1-1,1 - 0,[65],65
+03/2022,Santa Clara v Vizela,3-1,0 - 0,"[66, 68, 82, 90]",66
+03/2022,Vitória SC v Famalicao,2-1,1 - 1,[47],47
+03/2022,Ferreira v FC Porto,2-4,1 - 2,"[52, 59, 66]",52
+03/2022,Moreirense v Maritimo,0-1,0 - 1,[],100
+03/2022,Sporting CP v Arouca,2-0,0 - 0,"[46, 52]",46
+03/2022,Portimonense v Benfica,1-2,1 - 1,[50],50
+03/2022,Boavista v Braga,1-1,0 - 1,[53],53
+03/2022,Gil Vicente v Estoril,0-0,0 - 0,[],100
+02/2022,Braga v Santa Clara,0-0,0 - 0,[],100
+02/2022,FC Porto v Gil Vicente,1-1,0 - 0,"[62, 66]",62
+02/2022,Benfica v Vitória SC,3-0,2 - 0,[52],52
+02/2022,Estoril v Boavista,2-3,1 - 1,"[50, 54, 85]",50
+02/2022,Vizela v Portimonense,1-1,1 - 1,[],100
+02/2022,Arouca v Moreirense,1-1,0 - 1,[78],78
+02/2022,Maritimo v Sporting CP,1-1,1 - 1,[],100
+02/2022,Famalicao v Tondela,2-1,0 - 0,"[66, 71, 92]",66
+02/2022,BSAD v Ferreira,0-2,0 - 1,[62],62
+02/2022,Santa Clara v Portimonense,1-1,1 - 0,[80],80
+02/2022,Tondela v Braga,0-1,0 - 0,[57],57
+02/2022,Moreirense v FC Porto,0-1,0 - 1,[],100
+02/2022,Sporting CP v Estoril,3-0,1 - 0,"[76, 81]",76
+02/2022,Maritimo v Famalicao,0-1,0 - 1,[],100
+02/2022,Vitória SC v Arouca,1-3,1 - 3,[],100
+02/2022,Ferreira v Vizela,2-1,1 - 1,[64],64
+02/2022,Gil Vicente v BSAD,2-0,0 - 0,"[68, 78]",68
+02/2022,Boavista v Benfica,2-2,0 - 2,"[74, 80]",74
+02/2022,Arouca v Maritimo,0-3,0 - 2,[79],79
+02/2022,Vizela v Gil Vicente,0-1,0 - 1,[],100
+02/2022,BSAD v Vitória SC,1-0,0 - 0,[50],50
+02/2022,Famalicao v Moreirense,5-0,4 - 0,[69],69
+02/2022,Estoril v Tondela,1-0,0 - 0,[86],86
+02/2022,Benfica v Santa Clara,2-1,0 - 1,"[59, 61]",59
+02/2022,Portimonense v Boavista,1-1,1 - 1,[],100
+02/2022,Braga v Ferreira,2-1,0 - 1,"[67, 90]",67
+02/2022,FC Porto v Sporting CP,2-2,1 - 2,[78],78
+02/2022,Moreirense v BSAD,4-1,2 - 1,"[67, 88]",67
+02/2022,Tondela v Benfica,1-3,0 - 2,"[53, 88]",53
+02/2022,Sporting CP v Famalicao,2-0,1 - 0,[62],62
+02/2022,Arouca v FC Porto,0-2,0 - 0,"[54, 57]",54
+02/2022,Boavista v Vizela,2-2,0 - 1,"[57, 68, 70]",57
+02/2022,Gil Vicente v Santa Clara,2-2,1 - 1,"[79, 84]",79
+02/2022,Vitória SC v Braga,2-1,1 - 0,"[48, 90]",48
+02/2022,Ferreira v Portimonense,1-1,1 - 0,[91],91
+02/2022,Maritimo v Estoril,0-0,0 - 0,[],100
+02/2022,BSAD v Sporting CP,1-4,1 - 3,[47],47
+02/2022,Benfica v Gil Vicente,1-2,0 - 1,"[64, 88]",64
+02/2022,Santa Clara v Boavista,2-1,1 - 1,[75],75
+01/2022,Famalicao v Arouca,0-0,0 - 0,[],100
+01/2022,Estoril v Ferreira,0-0,0 - 0,[],100
+01/2022,FC Porto v Maritimo,2-1,1 - 0,"[49, 52]",49
+01/2022,Braga v Moreirense,2-0,0 - 0,"[48, 72]",48
+01/2022,Portimonense v Tondela,1-2,1 - 0,"[80, 87]",80
+01/2022,Vizela v Vitória SC,3-2,1 - 1,"[54, 60, 83]",54
+01/2022,Estoril v Arouca,1-2,1 - 0,"[89, 97]",89
+01/2022,FC Porto v Famalicao,3-1,2 - 0,"[78, 91]",78
+01/2022,Gil Vicente v Portimonense,1-0,0 - 0,[74],74
+01/2022,Maritimo v BSAD,1-1,1 - 1,[],100
+01/2022,Vitória SC v Estoril,3-1,0 - 1,"[60, 69, 93]",60
+01/2022,Sporting CP v Braga,1-2,1 - 0,"[53, 97]",53
+01/2022,Tondela v Vizela,2-3,2 - 1,"[72, 87]",72
+01/2022,Moreirense v Santa Clara,0-2,0 - 1,[85],85
+01/2022,Ferreira v Boavista,1-1,1 - 0,[85],85
+01/2022,Arouca v Benfica,0-2,0 - 1,[92],92
+01/2022,Portimonense v Vitória SC,1-1,0 - 1,[84],84
+01/2022,BSAD v FC Porto,1-4,1 - 1,"[58, 60, 83]",58
+01/2022,Famalicao v Ferreira,0-0,0 - 0,[],100
+01/2022,Vizela v Sporting CP,0-2,0 - 2,[],100
+01/2022,Santa Clara v Tondela,2-2,2 - 0,"[78, 88]",78
+01/2022,Benfica v Moreirense,1-1,0 - 0,"[61, 64]",61
+01/2022,Braga v Maritimo,0-1,0 - 0,[89],89
+01/2022,Boavista v Gil Vicente,1-1,1 - 0,[68],68
+01/2022,Famalicao v BSAD,1-0,0 - 0,[62],62
+01/2022,Gil Vicente v Vitória SC,3-2,1 - 0,"[53, 74, 78, 87]",53
+01/2022,BSAD v Arouca,2-1,0 - 1,"[73, 93]",73
+01/2022,Benfica v Ferreira,2-0,1 - 0,[75],75
+01/2022,Braga v Famalicao,2-2,1 - 1,"[81, 89]",81
+01/2022,Portimonense v Maritimo,1-2,0 - 1,"[67, 91]",67
+01/2022,Boavista v Tondela,1-1,0 - 0,"[71, 88]",71
+01/2022,Estoril v FC Porto,2-3,2 - 0,"[49, 84, 90]",49
+01/2022,Vizela v Moreirense,0-1,0 - 0,[59],59
+01/2022,Santa Clara v Sporting CP,3-2,1 - 1,"[49, 51, 77]",49
+01/2022,Tondela v Moreirense,2-1,0 - 1,"[63, 100]",63
+01/2022,Vizela v BSAD,2-0,2 - 0,[],100
+12/2021,FC Porto v Benfica,3-1,2 - 0,"[46, 69]",46
+12/2021,Arouca v Braga,0-6,0 - 3,"[70, 75, 79]",70
+12/2021,Ferreira v Santa Clara,2-1,0 - 1,"[69, 82]",69
+12/2021,Sporting CP v Portimonense,3-2,0 - 1,"[65, 76, 83, 92]",65
+12/2021,Vitória SC v Boavista,1-1,0 - 0,"[80, 85]",80
+12/2021,Moreirense v Estoril,1-0,1 - 0,[],100
+12/2021,Maritimo v Vizela,2-0,0 - 0,"[54, 72]",54
+12/2021,Tondela v Gil Vicente,0-3,0 - 0,"[58, 77, 93]",58
+12/2021,Braga v BSAD,1-0,1 - 0,[],100
+12/2021,Vizela v FC Porto,0-4,0 - 2,"[47, 64]",47
+12/2021,Benfica v Maritimo,7-1,3 - 0,"[48, 56, 81, 86, 91]",48
+12/2021,Boavista v Moreirense,1-0,1 - 0,[],100
+12/2021,Gil Vicente v Sporting CP,0-3,0 - 0,"[53, 64, 93]",53
+12/2021,Portimonense v Arouca,1-1,0 - 0,"[51, 70]",51
+12/2021,Tondela v Ferreira,0-1,0 - 0,[81],81
+12/2021,Estoril v Famalicao,2-2,2 - 1,[53],53
+12/2021,Santa Clara v Vitória SC,1-0,1 - 0,[],100
+12/2021,Arouca v Vizela,1-4,0 - 4,[55],55
+12/2021,FC Porto v Braga,1-0,1 - 0,[],100
+12/2021,Famalicao v Benfica,1-4,1 - 2,"[46, 55]",46
+12/2021,BSAD v Estoril,0-1,0 - 1,[],100
+12/2021,Moreirense v Portimonense,0-1,0 - 0,[86],86
+12/2021,Sporting CP v Boavista,2-0,0 - 0,"[52, 59]",52
+12/2021,Vitória SC v Tondela,5-2,2 - 2,"[62, 83, 89]",62
+12/2021,Maritimo v Santa Clara,4-1,2 - 1,"[60, 69]",60
+12/2021,Ferreira v Gil Vicente,0-1,0 - 0,[95],95
+12/2021,Braga v Estoril,2-0,2 - 0,[],100
+12/2021,Gil Vicente v Famalicao,4-0,3 - 0,[77],77
+12/2021,Santa Clara v Arouca,2-1,2 - 1,[],100
+12/2021,Ferreira v Vitória SC,1-2,1 - 0,"[70, 90]",70
+12/2021,Boavista v Maritimo,1-1,1 - 0,[95],95
+12/2021,Benfica v Sporting CP,1-3,0 - 1,"[62, 68, 95]",62
+12/2021,Portimonense v FC Porto,0-3,0 - 1,"[70, 75]",70
+11/2021,Braga v Vizela,4-1,2 - 0,"[57, 72, 93]",57
+11/2021,Estoril v Santa Clara,2-2,1 - 1,"[64, 88]",64
+11/2021,FC Porto v Vitória SC,2-1,1 - 1,[59],59
+11/2021,Sporting CP v Tondela,2-0,1 - 0,[50],50
+11/2021,Maritimo v Ferreira,2-0,0 - 0,"[48, 78]",48
+11/2021,BSAD v Benfica,0-7,0 - 7,[],100
+11/2021,Arouca v Boavista,2-1,1 - 0,"[54, 91]",54
+11/2021,Famalicao v Portimonense,0-3,0 - 2,[70],70
+11/2021,Moreirense v Gil Vicente,2-2,0 - 0,"[49, 68, 77, 96]",49
+11/2021,Benfica v Braga,6-1,4 - 1,"[52, 59]",52
+11/2021,Ferreira v Sporting CP,0-2,0 - 0,"[47, 69]",47
+11/2021,Santa Clara v FC Porto,0-3,0 - 1,"[46, 77]",46
+11/2021,Tondela v Maritimo,4-2,3 - 0,"[75, 91, 99]",75
+11/2021,Vitória SC v Moreirense,2-1,1 - 0,"[85, 88]",85
+11/2021,Portimonense v BSAD,2-0,1 - 0,[83],83
+11/2021,Vizela v Estoril,1-1,0 - 0,"[53, 67]",53
+11/2021,Boavista v Famalicao,2-5,1 - 3,"[48, 72, 77]",48
+11/2021,Gil Vicente v Arouca,1-1,0 - 1,[47],47
+11/2021,Moreirense v Ferreira,1-1,0 - 0,"[64, 86]",64
+11/2021,Braga v Portimonense,3-0,1 - 0,"[53, 91]",53
+10/2021,Famalicao v Vizela,1-1,0 - 0,"[82, 98]",82
+10/2021,BSAD v Santa Clara,2-1,1 - 0,"[90, 93]",90
+10/2021,Maritimo v Gil Vicente,1-2,1 - 1,[67],67
+10/2021,Sporting CP v Vitória SC,1-0,1 - 0,[],100
+10/2021,Estoril v Benfica,1-1,0 - 1,[90],90
+10/2021,FC Porto v Boavista,4-1,2 - 1,"[46, 95]",46
+10/2021,Arouca v Tondela,2-0,1 - 0,[68],68
+10/2021,Boavista v BSAD,0-0,0 - 0,[],100
+10/2021,Gil Vicente v Braga,0-1,0 - 1,[],100
+10/2021,Portimonense v Estoril,0-2,0 - 0,"[59, 71]",59
+10/2021,Vizela v Benfica,0-1,0 - 0,[98],98
+10/2021,Ferreira v Arouca,0-0,0 - 0,[],100
+10/2021,Sporting CP v Moreirense,1-0,1 - 0,[],100
+10/2021,Tondela v FC Porto,1-3,1 - 2,[79],79
+10/2021,Santa Clara v Famalicao,0-2,0 - 1,[54],54
+10/2021,Vitória SC v Maritimo,2-1,0 - 0,"[76, 89, 91]",76
+10/2021,Braga v Boavista,2-2,1 - 1,"[52, 89]",52
+10/2021,Benfica v Portimonense,0-1,0 - 0,[66],66
+10/2021,Estoril v Gil Vicente,2-2,2 - 1,[50],50
+10/2021,BSAD v Tondela,0-2,0 - 1,[64],64
+10/2021,Arouca v Sporting CP,1-2,0 - 1,"[51, 54]",51
+10/2021,FC Porto v Ferreira,2-1,1 - 1,[52],52
+10/2021,Vizela v Santa Clara,1-1,0 - 0,"[73, 97]",73
+10/2021,Famalicao v Vitória SC,1-2,1 - 1,[59],59
+10/2021,Maritimo v Moreirense,0-0,0 - 0,[],100
+09/2021,Boavista v Estoril,1-1,1 - 0,[71],71
+09/2021,Ferreira v BSAD,2-2,2 - 0,"[60, 76]",60
+09/2021,Portimonense v Vizela,0-0,0 - 0,[],100
+09/2021,Santa Clara v Braga,1-1,0 - 0,"[71, 95]",71
+09/2021,Tondela v Famalicao,3-2,1 - 1,"[50, 78, 84]",50
+09/2021,Vitória SC v Benfica,1-3,0 - 2,"[73, 78]",73
+09/2021,Moreirense v Arouca,2-1,1 - 0,"[64, 82]",64
+09/2021,Gil Vicente v FC Porto,1-2,1 - 1,[89],89
+09/2021,Sporting CP v Maritimo,1-0,0 - 0,[98],98
+09/2021,Braga v Tondela,3-1,0 - 0,"[80, 83, 86, 90]",80
+09/2021,Benfica v Boavista,3-1,2 - 1,[61],61
+09/2021,Estoril v Sporting CP,0-1,0 - 0,[67],67
+09/2021,FC Porto v Moreirense,5-0,1 - 0,"[51, 65, 71, 78]",51
+09/2021,Vizela v Ferreira,1-1,1 - 0,[50],50
+09/2021,Arouca v Vitória SC,2-2,0 - 1,"[71, 74, 92]",71
+09/2021,BSAD v Gil Vicente,1-1,0 - 0,"[83, 92]",83
+09/2021,Famalicao v Maritimo,0-0,0 - 0,[],100
+09/2021,Portimonense v Santa Clara,2-1,2 - 1,[],100
+09/2021,Tondela v Estoril,1-2,0 - 2,[51],51
+09/2021,Maritimo v Arouca,2-2,2 - 1,[82],82
+09/2021,Vitória SC v BSAD,0-0,0 - 0,[],100
+09/2021,Boavista v Portimonense,1-1,0 - 1,[92],92
+09/2021,Gil Vicente v Vizela,2-2,0 - 1,"[61, 73, 90]",61
+09/2021,Moreirense v Famalicao,2-2,1 - 1,"[47, 71]",47
+09/2021,Sporting CP v FC Porto,1-1,1 - 0,[71],71
+09/2021,Santa Clara v Benfica,0-5,0 - 1,"[54, 58, 62, 68]",54
+09/2021,Ferreira v Braga,0-0,0 - 0,[],100
+08/2021,Portimonense v Ferreira,0-1,0 - 1,[],100
+08/2021,Santa Clara v Gil Vicente,1-0,1 - 0,[],100
+08/2021,Benfica v Tondela,2-1,0 - 1,"[71, 88]",71
+08/2021,Braga v Vitória SC,0-0,0 - 0,[],100
+08/2021,Famalicao v Sporting CP,1-1,0 - 0,"[68, 82]",68
+08/2021,FC Porto v Arouca,3-0,2 - 0,[63],63
+08/2021,Vizela v Boavista,1-1,0 - 0,"[51, 74]",51
+08/2021,Estoril v Maritimo,2-1,1 - 1,[60],60
+08/2021,BSAD v Moreirense,1-1,1 - 0,[86],86
+08/2021,Boavista v Santa Clara,2-0,1 - 0,[47],47
+08/2021,Ferreira v Estoril,1-3,1 - 1,"[78, 81]",78
+08/2021,Vitória SC v Vizela,4-0,0 - 0,"[70, 75, 83, 95]",70
+08/2021,Maritimo v FC Porto,1-1,1 - 1,[],100
+08/2021,Tondela v Portimonense,0-3,0 - 2,[80],80
+08/2021,Sporting CP v BSAD,2-0,1 - 0,[48],48
+08/2021,Gil Vicente v Benfica,0-2,0 - 0,"[83, 88]",83
+08/2021,Moreirense v Braga,2-3,0 - 2,"[80, 83, 95]",80
+08/2021,Arouca v Famalicao,2-1,0 - 1,"[66, 89]",66
+08/2021,BSAD v Maritimo,1-2,1 - 2,[],100
+08/2021,Boavista v Ferreira,3-0,1 - 0,"[60, 78]",60
+08/2021,Santa Clara v Moreirense,2-2,0 - 0,"[58, 89, 94, 100]",58
+08/2021,Famalicao v FC Porto,1-2,0 - 2,[55],55
+08/2021,Portimonense v Gil Vicente,0-1,0 - 0,[59],59
+08/2021,Braga v Sporting CP,1-2,0 - 1,"[50, 92]",50
+08/2021,Benfica v Arouca,2-0,2 - 0,[],100
+08/2021,Vizela v Tondela,2-1,0 - 1,"[51, 97]",51
+08/2021,Estoril v Vitória SC,0-0,0 - 0,[],100
+08/2021,Gil Vicente v Boavista,3-0,2 - 0,[56],56
+08/2021,Ferreira v Famalicao,2-0,0 - 0,"[49, 51]",49
+08/2021,FC Porto v BSAD,2-0,1 - 0,[65],65
+08/2021,Tondela v Santa Clara,3-0,1 - 0,"[53, 83]",53
+08/2021,Vitória SC v Portimonense,0-1,0 - 0,[86],86
+08/2021,Maritimo v Braga,0-2,0 - 0,"[60, 68]",60
+08/2021,Moreirense v Benfica,1-2,1 - 2,[],100
+08/2021,Arouca v Estoril,0-2,0 - 1,[96],96

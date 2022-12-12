@@ -1,0 +1,112 @@
+{
+    "time": "03.10.2021 09:00",
+    "home": "Crystal Palace",
+    "away": "Leicester",
+    "placar": "2-2",
+    "placarHafHome": "0",
+    "placarHafAway": "2",
+    "oddsHome": "2.80",
+    "oddsDraw": "3.25",
+    "oddsAway": "2.62",
+    "homeGols": [
+        "61'",
+        "72'"
+    ],
+    "awayGols": [
+        "31'",
+        "37'"
+    ],
+    "allgols": [
+        "31'",
+        "37'",
+        "61'",
+        "72'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "57%",
+            "away": "43%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "5",
+            "away": "6"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "2",
+            "away": "4"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "1",
+            "away": "1"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "2",
+            "away": "1"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "8",
+            "away": "11"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "17",
+            "away": "4"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "8",
+            "away": "5"
+        },
+        {
+            "categoria": "Cartões amarelos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "280",
+            "away": "218"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "222",
+            "away": "154"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "8",
+            "away": "21"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "63",
+            "away": "63"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "17",
+            "away": "12"
+        }
+    ]
+}

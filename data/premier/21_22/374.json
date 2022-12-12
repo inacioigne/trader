@@ -1,0 +1,104 @@
+{
+    "time": "14.08.2021 10:00",
+    "home": "Chelsea",
+    "away": "Crystal Palace",
+    "placar": "3-0",
+    "placarHafHome": "2",
+    "placarHafAway": "0",
+    "oddsHome": "1.30",
+    "oddsDraw": "5.25",
+    "oddsAway": "11.00",
+    "homeGols": [
+        "27'",
+        "40'",
+        "58'"
+    ],
+    "awayGols": [],
+    "allgols": [
+        "27'",
+        "40'",
+        "58'"
+    ],
+    "halfStats": [
+        {
+            "categoria": "Posse de bola",
+            "home": "67%",
+            "away": "33%"
+        },
+        {
+            "categoria": "Tentativas de gol",
+            "home": "9",
+            "away": "0"
+        },
+        {
+            "categoria": "Finalizações",
+            "home": "4",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes fora",
+            "home": "4",
+            "away": "0"
+        },
+        {
+            "categoria": "Chutes bloqueados",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "categoria": "Faltas cobradas",
+            "home": "9",
+            "away": "4"
+        },
+        {
+            "categoria": "Escanteios",
+            "home": "4",
+            "away": "0"
+        },
+        {
+            "categoria": "Impedimentos",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "categoria": "Laterais cobrados",
+            "home": "12",
+            "away": "5"
+        },
+        {
+            "categoria": "Defesas do goleiro",
+            "home": "0",
+            "away": "2"
+        },
+        {
+            "categoria": "Faltas",
+            "home": "4",
+            "away": "8"
+        },
+        {
+            "categoria": "Total de passes",
+            "home": "352",
+            "away": "182"
+        },
+        {
+            "categoria": "Passes completados",
+            "home": "327",
+            "away": "154"
+        },
+        {
+            "categoria": "Desarmes",
+            "home": "11",
+            "away": "8"
+        },
+        {
+            "categoria": "Ataques",
+            "home": "88",
+            "away": "15"
+        },
+        {
+            "categoria": "Ataques Perigosos",
+            "home": "43",
+            "away": "5"
+        }
+    ]
+}
